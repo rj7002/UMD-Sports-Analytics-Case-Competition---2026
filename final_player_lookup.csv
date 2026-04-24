@@ -1,0 +1,618 @@
+player_name,team,class_year,position,games_played,archetype_id,archetype_name,proj_salary_low,proj_salary_mid,proj_salary_high,pts_per_game,fg_pct,fg3_pct,ft_pct,ast_pct,reb_pct,blk_per_game,stl_per_game,usg_pct,ts_pct,Player,Draft_Prob
+Casey Santoro,Youngstown State Penguins Women's,SR,G,35.0,2,High-Volume Wing/Guard,547779,644446,741112,11.8,0.357,0.301,0.808,0.184,0.086,0.1,1.1,0.197,0.502,Casey Santoro,2.041696823104507e-05
+Savannah White,Xavier Musketeers Women's,SR,F,29.0,3,Interior Specialist,463907,545773,627639,7.0,0.45,0.095,0.521,0.177,0.137,1.4,1.5,0.165,0.47,Savannah White,0.00013203816662549442
+Malene Pedersen,Wyoming Cowgirls Women's,SR,G,29.0,2,High-Volume Wing/Guard,644288,757986,871684,17.2,0.446,0.34,0.867,0.188,0.071,0.1,0.6,0.288,0.551,Malene Pedersen,0.0054377843184675355
+Henna Sandvik,Wyoming Cowgirls Women's,SR,G,30.0,1,Bench Guard/Wing,522662,614897,707131,10.4,0.408,0.318,0.676,0.19,0.076,0.7,0.4,0.214,0.475,Henna Sandvik,8.736617683270227e-05
+Logann Alvar,Wyoming Cowgirls Women's,SR,F,30.0,1,Bench Guard/Wing,437845,515111,592378,5.4,0.423,0.242,0.81,0.041,0.087,0.2,0.5,0.174,0.471,Logann Alvar,0.00019954975630176656
+Claire Henson,Wright State Raiders Women's,SR,G,30.0,3,Interior Specialist,520336,612161,703985,10.2,0.379,0.214,0.681,0.177,0.126,0.4,1.1,0.235,0.457,Claire Henson,2.253974852433122e-05
+Lauren Scott,Wright State Raiders Women's,SR,G,32.0,1,Bench Guard/Wing,495663,583133,670603,8.8,0.359,0.313,0.756,0.099,0.034,0.0,0.7,0.203,0.46,Lauren Scott,3.5921408831228376e-05
+Destiny Howell,Wisconsin Badgers Women's,SR,G,33.0,2,High-Volume Wing/Guard,587259,690892,794526,14.0,0.429,0.389,0.797,0.101,0.056,0.3,0.7,0.257,0.54,Destiny Howell,0.0021133568778307034
+Ronnie Porter,Wisconsin Badgers Women's,SR,G,34.0,1,Bench Guard/Wing,447953,527003,606054,6.0,0.367,0.318,0.805,0.287,0.079,0.1,1.6,0.136,0.476,Ronnie Porter,0.0006285858781608303
+Mya Pierfax,Winthrop Eagles Women's,SR,G,32.0,1,Bench Guard/Wing,508661,598425,688189,9.6,0.369,0.292,0.781,0.089,0.041,0.1,0.9,0.197,0.478,Mya Pierfax,3.765526269080715e-05
+Cori Lard,Winthrop Eagles Women's,SR,G,32.0,2,High-Volume Wing/Guard,502155,590771,679386,9.2,0.392,0.286,0.708,0.22,0.048,0.3,1.8,0.189,0.484,Cori Lard,8.259864838598002e-06
+Alexa Mikeska,William & Mary Tribe Women's,SR,G,31.0,4,Efficient Role Player,451292,530932,610571,6.2,0.475,0.286,0.827,0.242,0.091,0.3,1.9,0.119,0.582,Alexa Mikeska,1.4920936867673732e-05
+Abby Cater,Wichita State Shockers Women's,SR,G,30.0,0,Elite Two-Way Big,570142,670756,771369,13.1,0.414,0.269,0.797,0.119,0.1,0.5,2.4,0.285,0.501,Abby Cater,0.00011814242315806181
+Jaila Harding,Wichita State Shockers Women's,SR,G,31.0,2,High-Volume Wing/Guard,539390,634577,729763,11.3,0.351,0.333,0.814,0.086,0.03,0.1,0.6,0.18,0.497,Jaila Harding,2.600556820949725e-05
+Treasure Thompson,Wichita State Shockers Women's,SR,F,29.0,3,Interior Specialist,448625,527794,606963,6.1,0.452,0.0,0.436,0.125,0.111,1.0,1.1,0.202,0.453,Treasure Thompson,4.8371430386814845e-05
+Taya Davis,Wichita State Shockers Women's,SR,G,31.0,1,Bench Guard/Wing,570331,670977,771624,4.1,0.261,0.157,0.61,0.275,0.064,0.1,1.0,0.161,0.34,Taya Davis,4.469667544543382e-05
+Alli Carlson,Western Michigan Broncos Women's,SR,G,28.0,2,High-Volume Wing/Guard,520004,611770,703535,10.2,0.351,0.344,0.655,0.297,0.066,0.0,1.6,0.197,0.466,Alli Carlson,1.4450428621837984e-05
+Zsofia Telegdy,Western Kentucky Lady Toppers Women's,SR,F,29.0,1,Bench Guard/Wing,484023,569439,654854,8.1,0.358,0.226,0.744,0.117,0.092,0.9,1.1,0.211,0.451,Zsofia Telegdy,1.8784598573177953e-05
+Tia Shelling,Western Kentucky Lady Toppers Women's,SR,G,28.0,2,High-Volume Wing/Guard,462665,544312,625958,6.9,0.407,0.222,0.62,0.209,0.078,0.1,2.6,0.204,0.454,Tia Shelling,0.0006310395809460624
+Mia Nicastro,Western Illinois Leathernecks Women's,SR,G-F,32.0,0,Elite Two-Way Big,770335,906277,1042219,24.1,0.518,0.377,0.896,0.085,0.167,0.8,1.4,0.313,0.602,Mia Nicastro,0.06063282412687584
+Addi Brownfield,Western Illinois Leathernecks Women's,SR,G,32.0,0,Elite Two-Way Big,556808,655069,753329,12.3,0.436,0.391,0.791,0.159,0.105,1.0,2.2,0.191,0.585,Addi Brownfield,0.004499305560037602
+Allie Meadows,Western Illinois Leathernecks Women's,SR,G,32.0,1,Bench Guard/Wing,471451,554649,637846,7.4,0.349,0.324,0.758,0.099,0.039,0.1,1.2,0.13,0.497,Allie Meadows,4.109056272164859e-06
+Aryana Dizon,Western Carolina Catamounts Women's,SR,F,28.0,3,Interior Specialist,482878,568092,653305,8.1,0.428,0.188,0.54,0.114,0.075,1.4,0.8,0.171,0.447,Aryana Dizon,0.0013697170997982666
+Kierra Wheeler,West Virginia Mountaineers Women's,SR,F,35.0,3,Interior Specialist,576560,678306,780052,13.4,0.515,0.238,0.565,0.141,0.156,0.7,1.5,0.254,0.53,Kierra Wheeler,0.5859881602318299
+Jordan Harrison,West Virginia Mountaineers Women's,SR,G,34.0,2,High-Volume Wing/Guard,571567,672432,773296,13.1,0.45,0.302,0.838,0.304,0.062,0.0,3.2,0.216,0.565,Jordan Harrison,0.6191106558599655
+Sydney Shaw,West Virginia Mountaineers Women's,SR,G,35.0,2,High-Volume Wing/Guard,561380,660447,759514,12.6,0.431,0.424,0.778,0.129,0.087,0.4,1.9,0.186,0.577,Sydney Shaw,0.5107029683177972
+Jasmine Jones,West Georgia Wolves Women's,SR,G,31.0,2,High-Volume Wing/Guard,583275,686206,789136,13.8,0.393,0.373,0.782,0.076,0.078,0.6,0.8,0.231,0.559,Jasmine Jones,0.00015075215236405362
+Antoniette Emma-Nnopu,Weber State Wildcats Women's,SR,F,31.0,0,Elite Two-Way Big,591317,695667,800017,14.3,0.523,0.386,0.768,0.243,0.196,1.4,2.1,0.259,0.605,Antoniette Emma-Nnopu,0.14480508652495838
+Lanae Billy,Weber State Wildcats Women's,SR,G,33.0,2,High-Volume Wing/Guard,547032,643568,740103,11.8,0.394,0.353,0.763,0.167,0.05,0.2,1.1,0.218,0.534,Lanae Billy,4.185116182487433e-05
+Elle Ladine,Washington Huskies Women's,SR,G,27.0,1,Bench Guard/Wing,514336,605101,695866,9.9,0.396,0.315,0.788,0.14,0.102,0.4,0.4,0.214,0.484,Elle Ladine,0.004464170923136949
+Hannah Stines,Washington Huskies Women's,SR,G,33.0,1,Bench Guard/Wing,460354,541594,622833,6.8,0.372,0.273,0.643,0.151,0.089,0.4,1.2,0.163,0.428,Hannah Stines,0.021783741218476437
+Irene Fernandez de Caleya,Wagner Seahawks Women's,SR,G,27.0,1,Bench Guard/Wing,515625,606618,697611,10.0,0.406,0.254,0.645,0.161,0.096,0.2,1.6,0.19,0.468,Irene Fernandez de Caleya,1.3627612416574486e-05
+Priscila Varela,Wagner Seahawks Women's,SR,G,30.0,1,Bench Guard/Wing,439538,517103,594669,5.5,0.299,0.275,0.563,0.072,0.043,0.2,1.4,0.155,0.371,Priscila Varela,2.4500584291593152e-05
+Kilah Freelon,Virginia Tech Hokies Women's,SR,G-F,32.0,3,Interior Specialist,508119,597787,687455,9.5,0.513,0.0,0.755,0.073,0.169,1.3,1.2,0.177,0.559,Kilah Freelon,0.11669514249366952
+Paris Clark,Virginia Cavaliers Women's,SR,G,34.0,2,High-Volume Wing/Guard,511664,601958,692252,9.7,0.429,0.333,0.683,0.183,0.084,0.6,1.7,0.18,0.516,Paris Clark,0.1346524173200178
+Tabitha Amanze,Virginia Cavaliers Women's,SR,F,34.0,3,Interior Specialist,503493,592345,681197,9.3,0.482,0.0,0.719,0.074,0.145,1.3,0.9,0.229,0.524,Tabitha Amanze,0.0014800336595027638
+Romi Levy,Virginia Cavaliers Women's,SR,F,33.0,4,Efficient Role Player,485823,571556,657290,8.2,0.48,0.367,0.84,0.147,0.082,0.7,1.2,0.161,0.569,Romi Levy,0.1454893702898268
+Caitlin Weimar,Virginia Cavaliers Women's,SR,F,34.0,3,Interior Specialist,476088,560103,644118,7.7,0.59,0.333,0.762,0.044,0.142,1.4,0.4,0.152,0.634,Caitlin Weimar,0.11191976372859919
+Nikola Priede,Vermont Catamounts Women's,SR,C,35.0,0,Elite Two-Way Big,647267,761490,875714,17.4,0.599,0.0,0.66,0.152,0.137,1.5,0.9,0.259,0.608,Nikola Priede,0.10162771730122276
+Keira Hanson,Vermont Catamounts Women's,SR,G,35.0,2,High-Volume Wing/Guard,592829,697446,802063,14.3,0.452,0.427,0.768,0.107,0.046,0.3,1.3,0.241,0.545,Keira Hanson,0.0013710870253098772
+Jadyn Weltz,Vermont Catamounts Women's,SR,G,35.0,2,High-Volume Wing/Guard,544764,640899,737034,11.6,0.371,0.34,0.845,0.246,0.075,0.1,1.4,0.253,0.479,Jadyn Weltz,0.001274952689262856
+Justine Pissott,Vanderbilt Commodores Women's,SR,G-F,34.0,4,Efficient Role Player,535796,630349,724901,11.1,0.437,0.422,0.765,0.123,0.086,0.9,0.4,0.168,0.596,Justine Pissott,0.1381540270212751
+Jada Brown,Vanderbilt Commodores Women's,SR,G,34.0,1,Bench Guard/Wing,462360,543953,625546,3.2,0.353,0.333,0.824,0.091,0.03,0.1,1.0,0.096,0.495,Jada Brown,2.105380229245724e-05
+Fiona Connolly,Valparaiso Beacons Women's,SR,G,30.0,2,High-Volume Wing/Guard,563063,662428,761792,12.7,0.388,0.254,0.672,0.194,0.065,0.3,1.1,0.287,0.475,Fiona Connolly,8.833836933033283e-05
+Ereauna Hardaway,UTSA Roadrunners Women's,SR,G,33.0,2,High-Volume Wing/Guard,539047,634173,729299,11.3,0.416,0.426,0.725,0.339,0.066,0.0,1.6,0.213,0.523,Ereauna Hardaway,0.0012959873098307058
+Portia Adams,UTEP Miners Women's,SR,G,30.0,2,High-Volume Wing/Guard,553649,651352,749054,12.1,0.398,0.384,0.765,0.232,0.062,0.0,0.7,0.257,0.494,Portia Adams,0.00026020284075398706
+Ivane Tensaie,UTEP Miners Women's,SR,G,30.0,1,Bench Guard/Wing,530234,623805,717376,10.8,0.342,0.347,0.744,0.064,0.027,0.0,0.7,0.192,0.48,Ivane Tensaie,8.069745198076476e-05
+Heaven Samayoa-Mathis,UTEP Miners Women's,SR,G,30.0,1,Bench Guard/Wing,468489,551163,633838,7.2,0.356,0.299,0.762,0.169,0.066,0.3,1.6,0.169,0.454,Heaven Samayoa-Mathis,6.62255838906645e-06
+Delma Zita,UTEP Miners Women's,SR,G,29.0,1,Bench Guard/Wing,580617,683079,785541,4.6,0.362,0.25,0.9,0.214,0.055,0.1,1.3,0.153,0.459,Delma Zita,3.089560557554987e-05
+Amanda Barcello,Utah Valley Wolverines Women's,SR,G,28.0,2,High-Volume Wing/Guard,581001,683530,786060,13.7,0.413,0.404,0.852,0.063,0.04,0.2,2.4,0.181,0.598,Amanda Barcello,3.0453851226704674e-05
+Kaylee Headrick,Utah Valley Wolverines Women's,SR,F,31.0,3,Interior Specialist,503378,592210,681041,9.3,0.425,0.3,0.707,0.151,0.13,0.4,1.4,0.212,0.494,Kaylee Headrick,9.3061812205317e-06
+Kylee Mabry,Utah Valley Wolverines Women's,SR,G,30.0,1,Bench Guard/Wing,457097,537762,618426,6.6,0.307,0.272,0.691,0.123,0.047,0.2,2.0,0.183,0.403,Kylee Mabry,9.889405139711514e-06
+Halle Nelson,Utah Valley Wolverines Women's,SR,G-F,28.0,0,Elite Two-Way Big,457179,537857,618536,6.6,0.398,0.25,0.603,0.213,0.145,1.1,2.4,0.185,0.452,Halle Nelson,0.0013994165741572483
+Saige Gibb,Utah Valley Wolverines Women's,SR,G,29.0,1,Bench Guard/Wing,583167,686079,788991,4.8,0.329,0.298,0.628,0.111,0.075,0.4,2.2,0.142,0.422,Saige Gibb,1.2426920208261133e-05
+Kaylee Borden,Utah Tech Trailblazers Women's,SR,G,29.0,2,High-Volume Wing/Guard,620033,729450,838868,15.9,0.407,0.344,0.763,0.202,0.065,0.0,1.0,0.261,0.503,Kaylee Borden,0.0003021363941151143
+Brie Crittendon,Utah Tech Trailblazers Women's,SR,G,28.0,2,High-Volume Wing/Guard,533735,627924,722112,11.0,0.419,0.292,0.889,0.132,0.099,0.2,0.9,0.175,0.55,Brie Crittendon,2.4305866681483164e-05
+Chardonnay Hartley,Utah Tech Trailblazers Women's,SR,G,29.0,1,Bench Guard/Wing,475130,558976,642823,7.6,0.296,0.218,0.6,0.306,0.041,0.1,1.3,0.182,0.395,Chardonnay Hartley,2.3407250923688265e-05
+Karyn Sanford,Utah State Aggies Women's,SR,G,30.0,1,Bench Guard/Wing,479355,563948,648540,7.9,0.351,0.206,0.821,0.173,0.065,0.3,0.8,0.204,0.439,Karyn Sanford,0.0001176941495984848
+Jamisyn Heaton,Utah State Aggies Women's,SR,G,27.0,3,Interior Specialist,489306,575654,662002,8.4,0.41,0.255,0.734,0.113,0.093,0.5,1.5,0.215,0.484,Jamisyn Heaton,1.3152432368917564e-05
+Lani White,Utah Utes Women's,SR,G,32.0,2,High-Volume Wing/Guard,620827,730385,839943,15.9,0.462,0.404,0.83,0.118,0.087,0.2,0.6,0.26,0.599,Lani White,0.014744549810702405
+Maty Wilke,Utah Utes Women's,SR,G,32.0,2,High-Volume Wing/Guard,523899,616352,708804,10.4,0.4,0.342,0.833,0.169,0.066,0.2,1.8,0.209,0.52,Maty Wilke,1.3744988226469509e-05
+Nya Threatt,UT Arlington Mavericks Women's,SR,G,28.0,1,Bench Guard/Wing,500144,588405,676666,9.1,0.394,0.25,0.662,0.198,0.054,0.2,1.8,0.218,0.494,Nya Threatt,3.2316718460168996e-05
+Alexsyah Goudeau,UT Arlington Mavericks Women's,SR,G,33.0,1,Bench Guard/Wing,572501,673530,774560,4.2,0.364,0.267,0.684,0.143,0.054,0.2,1.1,0.131,0.46,Alexsyah Goudeau,3.0224340963254715e-05
+Mary Ferrito,UNC Wilmington Seahawks Women's,SR,G,30.0,1,Bench Guard/Wing,453122,533085,613047,6.3,0.314,0.299,0.781,0.133,0.043,0.2,0.8,0.166,0.453,Mary Ferrito,5.5926276904414416e-05
+Torin Rogers,UNC Wilmington Seahawks Women's,SR,G,29.0,1,Bench Guard/Wing,456255,536770,617286,6.5,0.385,0.366,0.641,0.079,0.082,0.4,0.8,0.152,0.491,Torin Rogers,4.3057285933348394e-05
+Jeni Levine,UNC Greensboro Spartans Women's,SR,G,30.0,2,High-Volume Wing/Guard,585532,688861,792191,13.9,0.377,0.296,0.712,0.212,0.074,0.3,1.4,0.265,0.472,Jeni Levine,0.0006510262912512384
+Rylan Moffitt,UNC Greensboro Spartans Women's,SR,F,30.0,3,Interior Specialist,450286,529748,609210,6.2,0.435,0.222,0.676,0.083,0.16,1.2,1.0,0.162,0.462,Rylan Moffitt,3.4788700181964925e-05
+Tasia Johnson,UNC Greensboro Spartans Women's,SR,G,27.0,1,Bench Guard/Wing,461332,542743,624155,6.8,0.343,0.385,0.656,0.188,0.059,0.2,1.3,0.14,0.491,Tasia Johnson,1.1649443524823208e-05
+Aileen Marquez,UNC Asheville Bulldogs Women's,SR,G,30.0,1,Bench Guard/Wing,483370,568670,653971,8.1,0.306,0.296,0.737,0.079,0.047,0.2,0.9,0.211,0.445,Aileen Marquez,1.7244123323754433e-05
+D'Yanna Maxey,UNC Asheville Bulldogs Women's,SR,G,27.0,1,Bench Guard/Wing,430522,506496,582471,5.0,0.328,0.286,0.592,0.15,0.041,0.0,0.8,0.149,0.429,D'Yanna Maxey,3.3368528919210706e-05
+Lauren Betts,UCLA Bruins Women's,SR,C,37.0,0,Elite Two-Way Big,642501,755884,869266,17.1,0.582,0.0,0.686,0.212,0.18,2.1,1.0,0.285,0.597,Lauren Betts,0.8191930332961821
+Kiki Rice,UCLA Bruins Women's,SR,G,38.0,2,High-Volume Wing/Guard,603157,709597,816037,14.9,0.49,0.385,0.902,0.217,0.108,0.4,1.5,0.218,0.603,Kiki Rice,0.8298938397737965
+Gabriela Jaquez,UCLA Bruins Women's,SR,F,38.0,4,Efficient Role Player,577361,679248,781136,13.5,0.539,0.39,0.86,0.105,0.102,0.1,1.1,0.193,0.647,Gabriela Jaquez,0.7439845476097386
+Gianna Kneepkens,UCLA Bruins Women's,SR,G,38.0,2,High-Volume Wing/Guard,565701,665530,765360,12.8,0.493,0.429,0.933,0.161,0.063,0.2,1.1,0.192,0.633,Gianna Kneepkens,0.8300168298053224
+Angela Dugalić,UCLA Bruins Women's,SR,F,38.0,0,Elite Two-Way Big,498452,586414,674376,9.0,0.502,0.326,0.741,0.138,0.135,0.6,1.1,0.194,0.575,Angela Dugalić,0.9118293568814906
+Charlisse Leger-Walker,UCLA Bruins Women's,SR,G,38.0,2,High-Volume Wing/Guard,487995,574112,660228,8.4,0.457,0.355,0.641,0.289,0.081,0.3,1.6,0.166,0.557,Charlisse Leger-Walker,0.8076661758777823
+Jacorriah Bracey,UCF Knights Women's,SR,G,30.0,1,Bench Guard/Wing,459372,540437,621503,6.7,0.37,0.159,0.706,0.125,0.05,0.1,0.7,0.212,0.408,Jacorriah Bracey,9.439207190249031e-05
+Kristol Ayson,UCF Knights Women's,SR,G,30.0,1,Bench Guard/Wing,441232,519096,596961,5.6,0.392,0.211,0.673,0.176,0.067,0.3,0.9,0.168,0.466,Kristol Ayson,3.816405022167389e-05
+Jessica Grant,UC Santa Barbara Gauchos Women's,SR,G,30.0,1,Bench Guard/Wing,430522,506496,582471,5.0,0.368,0.364,1.0,0.09,0.035,0.3,0.2,0.125,0.548,Jessica Grant,0.000683788884799027
+Makayla Rose,UC San Diego Tritons Women's,SR,G,33.0,2,High-Volume Wing/Guard,561457,660537,759618,12.6,0.412,0.271,0.722,0.111,0.071,0.1,3.1,0.199,0.48,Makayla Rose,5.2708170610559864e-05
+Sabrina Ma,UC San Diego Tritons Women's,SR,G,33.0,2,High-Volume Wing/Guard,540643,636050,731458,11.4,0.377,0.317,0.863,0.103,0.074,0.5,1.5,0.184,0.509,Sabrina Ma,4.754148106579649e-06
+Seneca Hackley,UC Riverside Highlanders Women's,SR,G,32.0,2,High-Volume Wing/Guard,515726,606737,697747,10.0,0.357,0.323,0.85,0.15,0.071,0.4,1.7,0.2,0.483,Seneca Hackley,5.815422898153194e-06
+Bria Shine,UC Riverside Highlanders Women's,SR,G,32.0,1,Bench Guard/Wing,577230,679094,780958,4.4,0.383,0.143,0.316,0.134,0.095,0.5,1.0,0.122,0.394,Bria Shine,1.7042901126364155e-05
+Hunter Hernandez,UC Irvine Anteaters Women's,SR,G,33.0,2,High-Volume Wing/Guard,692393,814580,936767,19.8,0.394,0.369,0.854,0.168,0.096,0.2,1.2,0.313,0.525,Hunter Hernandez,0.0007405155754607617
+Jada Wynn,UC Irvine Anteaters Women's,SR,G,33.0,2,High-Volume Wing/Guard,605113,711897,818682,15.0,0.386,0.402,0.866,0.258,0.119,0.4,1.7,0.24,0.566,Jada Wynn,0.005645105969231265
+Nya Epps,UC Davis Aggies Women's,SR,G,34.0,2,High-Volume Wing/Guard,569482,669979,770476,13.0,0.377,0.284,0.807,0.109,0.069,0.3,1.1,0.258,0.472,Nya Epps,0.00011783166655234853
+Megan Norris,UC Davis Aggies Women's,SR,C,34.0,0,Elite Two-Way Big,554409,652246,750083,12.2,0.467,0.324,0.742,0.168,0.194,1.4,0.9,0.187,0.567,Megan Norris,5.250662599269281e-05
+Molly Moffitt,UAB Blazers Women's,SR,F,30.0,4,Efficient Role Player,544262,640308,736354,11.6,0.451,0.357,0.857,0.097,0.106,0.5,0.4,0.224,0.536,Molly Moffitt,6.881767971826018e-05
+Monae' Duffy,UAB Blazers Women's,SR,F,30.0,3,Interior Specialist,512790,603282,693774,9.8,0.558,0.25,0.573,0.085,0.172,0.3,0.8,0.196,0.566,Monae' Duffy,6.390169293798746e-05
+Hannah Riddick,Tulsa Golden Hurricane Women's,SR,F,29.0,0,Elite Two-Way Big,610129,717799,825469,15.3,0.506,0.3,0.654,0.18,0.143,0.8,1.1,0.298,0.547,Hannah Riddick,0.00013444752175655817
+Amira Mabry,Tulane Green Wave Women's,SR,F,31.0,4,Efficient Role Player,515147,606055,696964,9.9,0.453,0.284,0.79,0.081,0.106,0.5,0.7,0.181,0.536,Amira Mabry,4.351423821406368e-05
+CC Mays,Tulane Green Wave Women's,SR,G,27.0,1,Bench Guard/Wing,465763,547957,630150,7.1,0.328,0.247,0.75,0.166,0.087,0.1,1.3,0.208,0.435,CC Mays,1.5920024580942493e-05
+Fortuna Ngnawo,Troy Trojans Women's,SR,F,32.0,0,Elite Two-Way Big,608487,715868,823248,15.2,0.438,0.273,0.77,0.094,0.171,1.1,1.2,0.25,0.496,Fortuna Ngnawo,0.004482641478195439
+Zay Dyer,Troy Trojans Women's,SR,F,33.0,0,Elite Two-Way Big,589418,693433,797448,14.2,0.424,0.25,0.615,0.114,0.194,1.5,1.1,0.234,0.466,Zay Dyer,0.0019375757897628495
+Emani Jenkins,Troy Trojans Women's,SR,G,33.0,2,High-Volume Wing/Guard,541707,637302,732897,11.5,0.385,0.402,0.833,0.107,0.055,0.2,0.9,0.219,0.545,Emani Jenkins,3.7374409078615625e-05
+Ashley Baez,Troy Trojans Women's,SR,G,33.0,2,High-Volume Wing/Guard,527373,620438,713504,10.6,0.403,0.356,0.771,0.227,0.05,0.1,1.5,0.208,0.548,Ashley Baez,1.5608294566271447e-05
+Rachel Leggett,Troy Trojans Women's,SR,G,33.0,3,Interior Specialist,521023,612969,704914,10.3,0.514,0.258,0.683,0.125,0.095,0.2,1.7,0.165,0.561,Rachel Leggett,0.0005774653498547286
+India Johnston,Towson Tigers Women's,SR,G,31.0,2,High-Volume Wing/Guard,622513,732368,842224,16.0,0.416,0.337,0.806,0.193,0.038,0.2,0.9,0.262,0.541,India Johnston,0.0008437837230682168
+Tilda Sjokvist,Towson Tigers Women's,SR,G,31.0,1,Bench Guard/Wing,465048,547115,629182,7.0,0.357,0.338,0.526,0.247,0.054,0.1,0.5,0.19,0.462,Tilda Sjokvist,5.36318238833426e-05
+Semaya Turner,Towson Tigers Women's,SR,G,31.0,3,Interior Specialist,433790,510341,586892,5.2,0.451,0.154,0.569,0.061,0.129,0.2,1.0,0.13,0.491,Semaya Turner,2.1186859670663537e-05
+Patricia Anumgba,Toledo Rockets Women's,SR,G,32.0,2,High-Volume Wing/Guard,570069,670669,771269,13.1,0.397,0.342,0.813,0.152,0.071,0.0,1.9,0.252,0.506,Patricia Anumgba,1.8968298386327123e-05
+Charlotte O'Keefe,Texas-Rio Grande Valley Vaqueros Women's,SR,F,29.0,0,Elite Two-Way Big,559205,657888,756571,12.4,0.484,0.385,0.702,0.178,0.2,1.5,1.3,0.184,0.558,Charlotte O'Keefe,0.0007199706971796342
+Bailey Maupin,Texas Tech Lady Raiders Women's,SR,G,34.0,2,High-Volume Wing/Guard,608784,716216,823649,15.2,0.404,0.335,0.843,0.17,0.063,0.2,1.6,0.258,0.553,Bailey Maupin,0.0045307776755728
+Snudda Collins,Texas Tech Lady Raiders Women's,SR,F,34.0,2,High-Volume Wing/Guard,594058,698892,803726,14.4,0.435,0.391,0.782,0.107,0.066,0.8,0.6,0.312,0.545,Snudda Collins,0.27505391708433424
+Denae Fritz,Texas Tech Lady Raiders Women's,SR,G,34.0,4,Efficient Role Player,466509,548834,631159,7.1,0.401,0.361,0.8,0.073,0.069,0.9,2.0,0.121,0.54,Denae Fritz,0.09963562287458505
+Gemma Nunez,Texas Tech Lady Raiders Women's,SR,G,34.0,1,Bench Guard/Wing,433998,510586,587174,5.2,0.421,0.254,0.639,0.278,0.085,0.1,2.0,0.123,0.489,Gemma Nunez,0.0019524684833691493
+Deja Jones,Texas State Bobcats Women's,SR,G,30.0,1,Bench Guard/Wing,434462,511132,587802,5.2,0.326,0.236,0.588,0.186,0.103,0.3,0.7,0.192,0.381,Deja Jones,9.340263403692099e-05
+Olivia Miles,TCU Horned Frogs Women's,SR,G,38.0,2,High-Volume Wing/Guard,687457,808773,930089,19.6,0.481,0.351,0.839,0.364,0.11,0.3,1.8,0.285,0.587,Olivia Miles,0.9141627591051172
+Marta Suarez,TCU Horned Frogs Women's,SR,G-F,38.0,0,Elite Two-Way Big,641498,754703,867909,17.1,0.453,0.37,0.892,0.141,0.127,0.2,1.4,0.29,0.558,Marta Suarez,0.3926042885390417
+Taylor Bigby,TCU Horned Frogs Women's,SR,G,38.0,4,Efficient Role Player,485273,570910,656546,8.2,0.441,0.389,0.738,0.07,0.047,0.2,0.7,0.148,0.589,Taylor Bigby,0.07206564417158699
+Chelsea Wooten,Texas A&M-Corpus Christi Islanders Women's,SR,G,28.0,2,High-Volume Wing/Guard,513162,603720,694278,9.8,0.292,0.265,0.791,0.276,0.065,0.1,1.1,0.239,0.41,Chelsea Wooten,2.264462525506971e-05
+Marissa Shelton,Texas A&M-Corpus Christi Islanders Women's,SR,G,29.0,1,Bench Guard/Wing,495924,583440,670956,8.8,0.339,0.331,0.727,0.136,0.061,0.1,0.6,0.212,0.493,Marissa Shelton,4.8125190273814646e-05
+Trinity Slocum,Texas A&M-Corpus Christi Islanders Women's,SR,G,28.0,1,Bench Guard/Wing,555917,654021,752124,3.3,0.283,0.139,0.587,0.3,0.094,0.1,0.7,0.172,0.36,Trinity Slocum,0.00012679725771526983
+Ny'Ceara Pryor,Texas A&M Aggies Women's,SR,G,27.0,2,High-Volume Wing/Guard,627180,737859,848537,16.3,0.423,0.314,0.635,0.524,0.065,0.2,3.6,0.281,0.488,Ny'Ceara Pryor,0.18026209141784064
+Rori Harmon,Texas Longhorns Women's,SR,G,39.0,2,High-Volume Wing/Guard,488716,574960,661204,8.4,0.452,0.448,0.71,0.3,0.066,0.2,2.8,0.155,0.502,Rori Harmon,0.5422348245347669
+Reagan Hurst,Tennessee Tech Golden Eagles Women's,SR,G,27.0,1,Bench Guard/Wing,551952,649355,746759,12.0,0.324,0.327,0.854,0.137,0.039,0.1,0.7,0.21,0.476,Reagan Hurst,4.0066615395012807e-05
+Cam Mathews,Tennessee Tech Golden Eagles Women's,SR,G,29.0,1,Bench Guard/Wing,481649,566645,651642,8.0,0.396,0.325,0.925,0.133,0.051,0.1,0.9,0.148,0.537,Cam Mathews,5.7879227384491484e-05
+Kiki Roberts,Tennessee State Lady Tigers Women's,SR,F,29.0,3,Interior Specialist,444526,522972,601417,5.8,0.444,0.333,0.545,0.085,0.146,0.4,0.6,0.159,0.473,Kiki Roberts,5.560262262023139e-05
+Janiah Barker,Tennessee Lady Volunteers Women's,SR,F,27.0,0,Elite Two-Way Big,591338,695692,800046,14.3,0.465,0.365,0.73,0.106,0.145,0.9,1.1,0.279,0.568,Janiah Barker,0.8322044046570483
+Lazaria Spearman,Tennessee Lady Volunteers Women's,SR,F,30.0,3,Interior Specialist,519755,611477,703198,10.2,0.384,0.233,0.611,0.067,0.116,1.3,0.8,0.229,0.454,Lazaria Spearman,0.006378301611485053
+Nya Robertson,Tennessee Lady Volunteers Women's,SR,G,30.0,1,Bench Guard/Wing,490265,576782,663299,8.5,0.361,0.331,0.667,0.102,0.054,0.1,0.6,0.2,0.491,Nya Robertson,0.00480490981516376
+Jakoriah Long,Tarleton State Texans Women's,SR,G,31.0,2,High-Volume Wing/Guard,546757,643244,739731,11.7,0.402,0.374,0.782,0.115,0.058,0.2,1.0,0.207,0.516,Jakoriah Long,6.971285702897261e-05
+Gia Adams,Tarleton State Texans Women's,SR,G,31.0,2,High-Volume Wing/Guard,545056,641242,737428,11.6,0.355,0.265,0.848,0.244,0.041,0.3,1.2,0.233,0.453,Gia Adams,2.387622656059158e-05
+Kyriana Jones,Tarleton State Texans Women's,SR,G-F,28.0,1,Bench Guard/Wing,479192,563755,648318,7.9,0.374,0.288,0.683,0.085,0.08,0.0,0.8,0.189,0.457,Kyriana Jones,8.099063309608475e-05
+Laila Phelia,Syracuse Orange Women's,SR,G,32.0,2,High-Volume Wing/Guard,581160,683717,786275,13.7,0.395,0.359,0.854,0.081,0.046,0.2,2.0,0.223,0.499,Laila Phelia,0.0006599997564092422
+Dominique Darius,Syracuse Orange Women's,SR,G,30.0,2,High-Volume Wing/Guard,561885,661041,760198,12.6,0.398,0.294,0.839,0.264,0.076,0.2,1.6,0.272,0.508,Dominique Darius,0.04662101747669272
+Diaka Berete,Stony Brook Seawolves Women's,SR,G,33.0,2,High-Volume Wing/Guard,532674,626675,720676,10.9,0.402,0.353,0.73,0.086,0.099,0.1,1.4,0.242,0.529,Diaka Berete,9.314378047006901e-06
+Sandra Frau-Garcia,Stony Brook Seawolves Women's,SR,G,33.0,1,Bench Guard/Wing,458286,539160,620034,6.6,0.347,0.194,0.759,0.333,0.085,0.1,2.2,0.189,0.429,Sandra Frau-Garcia,2.169510390730564e-05
+Cameron Thomas,Stetson Hatters Women's,SR,G,32.0,2,High-Volume Wing/Guard,627576,738325,849073,16.3,0.434,0.363,0.788,0.11,0.088,0.1,0.6,0.283,0.57,Cameron Thomas,0.0022549366790492902
+Mary McMillan,Stetson Hatters Women's,SR,G,32.0,2,High-Volume Wing/Guard,598982,704684,810387,14.7,0.438,0.35,0.737,0.266,0.04,0.1,0.8,0.234,0.555,Mary McMillan,0.00016221029766017812
+Aleah Sorrentino,Stetson Hatters Women's,SR,F,32.0,3,Interior Specialist,527174,620205,713235,10.6,0.451,0.411,0.472,0.155,0.153,0.6,1.0,0.226,0.492,Aleah Sorrentino,3.153649878247326e-05
+Promise Keshi,Stetson Hatters Women's,SR,G,31.0,0,Elite Two-Way Big,481094,565992,650891,8.0,0.509,0.256,0.941,0.148,0.124,1.2,1.8,0.162,0.551,Promise Keshi,0.001454530872767223
+Harmanie Dominguez,Stephen F. Austin Ladyjacks Women's,SR,G,35.0,2,High-Volume Wing/Guard,564916,664607,764298,12.8,0.397,0.366,0.819,0.125,0.063,0.2,1.1,0.192,0.563,Harmanie Dominguez,4.832194165552706e-05
+Faith Feuerbach,St. Thomas Tommies Women's,SR,G,32.0,1,Bench Guard/Wing,509204,599064,688923,9.6,0.386,0.331,0.746,0.13,0.047,0.4,1.0,0.189,0.516,Faith Feuerbach,4.5146646259776485e-05
+Jada Hood,St. Thomas Tommies Women's,SR,G,32.0,2,High-Volume Wing/Guard,501614,590134,678654,9.2,0.364,0.329,0.718,0.261,0.109,0.3,1.2,0.216,0.497,Jada Hood,8.561029382340815e-06
+Shaulana Wagner,St. John's (NY) Red Storm Women's,SR,G,30.0,1,Bench Guard/Wing,461079,542446,623813,6.8,0.401,0.196,0.569,0.36,0.077,0.1,0.7,0.217,0.448,Shaulana Wagner,0.00010483334420828025
+Jailah Donald,St. John's (NY) Red Storm Women's,SR,G,33.0,1,Bench Guard/Wing,432568,508904,585239,5.1,0.37,0.306,0.679,0.167,0.051,0.1,0.5,0.148,0.482,Jailah Donald,3.895687590769958e-05
+Laycee Drake,St. Bonaventure Bonnies Women's,SR,G,33.0,0,Elite Two-Way Big,613258,721481,829703,15.5,0.442,0.333,0.82,0.222,0.118,0.5,1.7,0.292,0.517,Laycee Drake,0.0011032115248079586
+Aaliyah Parker,St. Bonaventure Bonnies Women's,SR,G,32.0,0,Elite Two-Way Big,561222,660262,759301,12.6,0.398,0.302,0.789,0.184,0.138,0.4,2.2,0.328,0.472,Aaliyah Parker,1.5341067672679415e-05
+Jakayla Johnson,Southern Miss Lady Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,614978,723503,832029,15.6,0.457,0.392,0.825,0.13,0.074,0.1,1.4,0.263,0.581,Jakayla Johnson,0.0007565070502250533
+Meloney Thames,Southern Miss Lady Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,573535,674747,775959,13.3,0.342,0.247,0.705,0.145,0.053,0.2,1.2,0.241,0.443,Meloney Thames,1.0669401693683864e-05
+Hayleigh Breland,Southern Miss Lady Eagles Women's,SR,G,30.0,2,High-Volume Wing/Guard,546606,643066,739526,11.7,0.371,0.295,0.862,0.147,0.07,0.0,1.1,0.234,0.459,Hayleigh Breland,4.487733212676155e-05
+Carly Keats,Southern Miss Lady Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,519643,611344,703046,10.2,0.389,0.37,0.815,0.144,0.05,0.1,0.7,0.183,0.534,Carly Keats,5.6574550169152305e-05
+Brikayla Gray,Southern Miss Lady Eagles Women's,SR,G,31.0,3,Interior Specialist,569137,669573,770009,4.0,0.445,0.222,0.667,0.083,0.113,0.5,0.9,0.108,0.488,Brikayla Gray,0.000686786708424608
+Ayanna Thompson,SMU Mustangs Women's,SR,G,30.0,1,Bench Guard/Wing,450853,530415,609977,6.2,0.32,0.341,0.744,0.133,0.045,0.3,1.3,0.171,0.432,Ayanna Thompson,1.3146771121791474e-05
+Grace Hall,SMU Mustangs Women's,SR,F,27.0,1,Bench Guard/Wing,579413,681662,783911,4.6,0.37,0.286,0.577,0.108,0.093,1.6,1.1,0.138,0.441,Grace Hall,0.003736597935465167
+Ali Saunders,Southern Indiana Screaming Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,654568,770080,885592,17.8,0.39,0.397,0.901,0.286,0.048,0.2,2.1,0.267,0.537,Ali Saunders,5.433267984174592e-05
+Macy Silvey,SIU-Edwardsville Cougars Women's,SR,G,32.0,1,Bench Guard/Wing,508661,598425,688189,9.6,0.351,0.336,0.708,0.075,0.068,0.1,0.6,0.183,0.488,Macy Silvey,0.0006573907271525235
+Indya Green,Southern Illinois Salukis Women's,SR,F,30.0,3,Interior Specialist,569552,670061,770570,13.0,0.474,0.25,0.652,0.035,0.181,0.6,1.1,0.275,0.498,Indya Green,8.874216072494563e-05
+Jeniah Thompson,Southern Illinois Salukis Women's,SR,G,30.0,3,Interior Specialist,515110,606011,696913,9.9,0.474,0.302,0.734,0.141,0.144,0.1,1.4,0.205,0.529,Jeniah Thompson,1.8601013493816094e-05
+Kara Dunn,USC Women of Troy Women's,SR,G,32.0,2,High-Volume Wing/Guard,607368,714550,821733,15.2,0.475,0.378,0.741,0.133,0.085,0.4,1.2,0.219,0.589,Kara Dunn,0.30912034513660136
+Londynn Jones,USC Women of Troy Women's,SR,G,32.0,2,High-Volume Wing/Guard,524990,617635,710281,10.5,0.383,0.327,0.844,0.139,0.036,0.2,0.7,0.238,0.519,Londynn Jones,0.0007645198891146455
+Jaylia Reed,Southern Lady Jaguars Women's,SR,G,34.0,1,Bench Guard/Wing,480637,565455,650273,7.9,0.377,0.36,0.762,0.13,0.047,0.1,0.7,0.169,0.538,Jaylia Reed,3.451693723820183e-05
+Carmen Taylor,Southeast Missouri State Redhawks Women's,SR,G,32.0,2,High-Volume Wing/Guard,565643,665462,765281,12.8,0.367,0.336,0.714,0.128,0.045,0.1,1.5,0.223,0.495,Carmen Taylor,1.9864576634063525e-05
+Lexi McCully,Southeast Missouri State Redhawks Women's,SR,G,32.0,2,High-Volume Wing/Guard,537569,632434,727299,11.2,0.412,0.306,0.797,0.184,0.051,0.1,1.2,0.255,0.508,Lexi McCully,1.4904205587650643e-05
+Raissa Nsabua,Southeast Missouri State Redhawks Women's,SR,G,31.0,4,Efficient Role Player,483870,569258,654647,8.1,0.459,0.333,0.735,0.272,0.099,0.3,1.3,0.18,0.549,Raissa Nsabua,1.6710392939308442e-05
+Katie Davidson,South Florida Bulls Women's,SR,G-F,31.0,4,Efficient Role Player,554142,651931,749721,12.2,0.439,0.388,0.828,0.095,0.052,0.5,0.6,0.205,0.554,Katie Davidson,0.0013516211529595366
+Carla Brito,South Florida Bulls Women's,SR,F,28.0,3,Interior Specialist,514405,605182,695960,9.9,0.43,0.3,0.682,0.166,0.15,0.4,1.2,0.186,0.494,Carla Brito,9.456459502337099e-06
+Brooklyn Meyer,South Dakota State Jackrabbits Women's,SR,F,34.0,0,Elite Two-Way Big,742359,873363,1004368,22.6,0.646,0.0,0.74,0.215,0.152,1.9,0.9,0.32,0.672,Brooklyn Meyer,0.18018793832282198
+Madison Mathiowetz,South Dakota State Jackrabbits Women's,SR,G,34.0,2,High-Volume Wing/Guard,575218,676727,778236,13.4,0.455,0.396,0.901,0.147,0.071,0.1,1.2,0.22,0.575,Madison Mathiowetz,0.05091046375597242
+Angelina Robles,South Dakota Coyotes Women's,SR,G,36.0,2,High-Volume Wing/Guard,618518,727668,836818,15.8,0.413,0.38,0.847,0.196,0.066,0.3,1.4,0.254,0.533,Angelina Robles,0.0013400278770046778
+Elise Turrubiates,South Dakota Coyotes Women's,SR,F,35.0,3,Interior Specialist,496435,584042,671648,8.9,0.415,0.376,0.806,0.082,0.13,0.5,1.2,0.16,0.514,Elise Turrubiates,1.0010142398634733e-05
+Aijah Palmore,USC Upstate Spartans Women's,SR,F,31.0,3,Interior Specialist,455686,536101,616516,6.5,0.462,0.0,0.625,0.102,0.2,0.3,0.5,0.185,0.503,Aijah Palmore,7.35311298052582e-05
+Madina Okot,South Carolina Gamecocks Women's,SR,F,39.0,0,Elite Two-Way Big,565784,665629,765473,12.8,0.575,0.448,0.702,0.075,0.241,1.4,1.3,0.251,0.607,Madina Okot,0.9122775955526395
+Ta'Niya Latson,South Carolina Gamecocks Women's,SR,G,35.0,2,High-Volume Wing/Guard,588754,692652,796550,14.1,0.486,0.325,0.803,0.201,0.055,0.3,1.7,0.229,0.575,Ta'Niya Latson,0.9741833144810789
+Raven Johnson,South Carolina Gamecocks Women's,SR,G,40.0,2,High-Volume Wing/Guard,513659,604305,694951,9.8,0.486,0.398,0.82,0.262,0.074,0.6,1.5,0.164,0.571,Raven Johnson,0.9616942232829144
+Cordasia Harris,South Alabama Jaguars Women's,SR,F,35.0,3,Interior Specialist,533235,627335,721435,11.0,0.537,0.263,0.529,0.046,0.176,1.7,1.0,0.203,0.546,Cordasia Harris,0.0007217557532243306
+Daniela Gonzalez,South Alabama Jaguars Women's,SR,F,35.0,2,High-Volume Wing/Guard,514778,605621,696464,9.9,0.37,0.376,0.642,0.154,0.073,0.5,1.3,0.173,0.498,Daniela Gonzalez,2.30754477822926e-05
+Mariana Valenzuela,Seton Hall Pirates Women's,SR,F,32.0,0,Elite Two-Way Big,556257,654420,752583,12.3,0.462,0.377,0.625,0.092,0.134,0.8,1.0,0.209,0.559,Mariana Valenzuela,0.007510249602873651
+Shailyn Pinkney,Seton Hall Pirates Women's,SR,G-F,28.0,1,Bench Guard/Wing,564511,664131,763751,3.8,0.374,0.268,0.588,0.196,0.073,0.1,0.5,0.127,0.456,Shailyn Pinkney,5.4095919644692846e-05
+Ella Brubaker,Seattle Redhawks Women's,SR,G,30.0,2,High-Volume Wing/Guard,618917,728138,837359,15.8,0.442,0.305,0.826,0.097,0.075,0.4,1.6,0.255,0.554,Ella Brubaker,0.00011080831587014307
+Tamia Stricklin,Seattle Redhawks Women's,SR,F,29.0,1,Bench Guard/Wing,524087,616573,709059,10.4,0.395,0.357,0.7,0.144,0.115,0.3,1.0,0.213,0.482,Tamia Stricklin,1.576830795843451e-05
+Ashley Hawkins,Santa Clara Broncos Women's,SR,G,34.0,2,High-Volume Wing/Guard,581486,684102,786717,13.7,0.412,0.32,0.856,0.353,0.06,0.1,1.4,0.214,0.546,Ashley Hawkins,0.0007125649457249836
+Mara Neira,San Francisco Dons Women's,SR,G,34.0,2,High-Volume Wing/Guard,498907,586950,674992,9.0,0.322,0.301,0.742,0.151,0.083,0.1,1.6,0.225,0.441,Mara Neira,1.1411402172125763e-05
+Nala Williams,San Diego State Aztecs Women's,SR,G,32.0,2,High-Volume Wing/Guard,516270,607377,698483,10.0,0.447,0.347,0.745,0.326,0.097,0.3,1.7,0.221,0.535,Nala Williams,0.16911747733705437
+Hallie Rhodes,San Diego Toreros Women's,SR,G,29.0,1,Bench Guard/Wing,530113,623663,717212,10.8,0.384,0.286,0.661,0.143,0.062,0.6,1.1,0.231,0.433,Hallie Rhodes,2.9325349015668218e-05
+Sierra Godbolt,Samford Bulldogs Women's,SR,G,33.0,2,High-Volume Wing/Guard,509945,599935,689925,9.6,0.391,0.328,0.772,0.3,0.034,0.0,1.0,0.254,0.483,Sierra Godbolt,2.0929651634306247e-05
+Fanta Kone,Sam Houston Bearkats Women's,SR,G,30.0,2,High-Volume Wing/Guard,568371,668672,768973,13.0,0.459,0.28,0.647,0.307,0.066,0.1,3.6,0.203,0.527,Fanta Kone,0.0020879916737881095
+Nyla Inmon,Sam Houston Bearkats Women's,SR,F,31.0,3,Interior Specialist,526399,619293,712187,10.6,0.369,0.056,0.5,0.143,0.109,0.3,1.5,0.247,0.399,Nyla Inmon,3.261239722403086e-05
+Whitney Dunn,Sam Houston Bearkats Women's,SR,G,31.0,1,Bench Guard/Wing,521893,613992,706091,10.3,0.355,0.283,0.613,0.13,0.065,0.2,1.3,0.258,0.428,Whitney Dunn,1.88555757537885e-05
+Aysia Ward-Strong,Sam Houston Bearkats Women's,SR,G,31.0,1,Bench Guard/Wing,467808,550362,632916,7.2,0.41,0.263,0.593,0.116,0.1,0.7,2.4,0.13,0.441,Aysia Ward-Strong,5.2436735491616176e-05
+Louella Allana,Saint Peter's Peacocks Women's,SR,G,30.0,1,Bench Guard/Wing,554330,652154,749977,3.2,0.27,0.229,0.75,0.234,0.06,0.0,1.3,0.108,0.364,Louella Allana,1.0991366636592792e-05
+Abby Shoff,Saint Mary's Gaels Women's,SR,F,32.0,3,Interior Specialist,506491,595872,685253,9.4,0.403,0.262,0.78,0.096,0.104,0.2,0.9,0.252,0.475,Abby Shoff,1.84510533532162e-05
+Addison Wedin,Saint Mary's Gaels Women's,SR,G,32.0,4,Efficient Role Player,474131,557801,641472,7.6,0.431,0.4,0.87,0.075,0.066,0.1,0.7,0.176,0.558,Addison Wedin,6.241676830903425e-05
+Malia Latu,Saint Mary's Gaels Women's,SR,G,32.0,1,Bench Guard/Wing,463428,545209,626991,6.9,0.38,0.278,0.827,0.227,0.082,0.0,1.2,0.231,0.438,Malia Latu,3.344327044043831e-05
+Zya Nugent,Saint Louis Billikens Women's,SR,G,33.0,1,Bench Guard/Wing,557711,656130,754550,12.4,0.31,0.244,0.713,0.122,0.109,0.0,1.7,0.254,0.422,Zya Nugent,2.8422269186248914e-05
+Alexia Nelson,Saint Louis Billikens Women's,SR,G,33.0,1,Bench Guard/Wing,542239,637928,733617,11.5,0.389,0.214,0.714,0.202,0.05,0.1,1.5,0.215,0.44,Alexia Nelson,3.594563113870118e-05
+Faith Stinson,Saint Joseph's Hawks Women's,SR,F,31.0,3,Interior Specialist,493886,581042,668199,8.7,0.466,0.235,0.576,0.147,0.107,0.7,0.7,0.199,0.513,Faith Stinson,3.556919169571414e-05
+Shelby Ricks,Saint Francis (PA) Red Flash Women's,SR,G,28.0,0,Elite Two-Way Big,542505,638241,733977,11.5,0.419,0.333,0.793,0.105,0.131,0.8,0.5,0.239,0.51,Shelby Ricks,0.0006568374123778844
+Aleah James,Saint Francis (PA) Red Flash Women's,SR,G,28.0,1,Bench Guard/Wing,529984,623511,717037,10.8,0.378,0.329,0.667,0.26,0.064,0.0,0.9,0.254,0.442,Aleah James,0.00013054100766856565
+Sonia Sato,Saint Francis (PA) Red Flash Women's,SR,G,28.0,1,Bench Guard/Wing,497671,585495,673320,8.9,0.371,0.241,0.604,0.131,0.077,0.7,0.8,0.226,0.428,Sonia Sato,9.35776150019947e-05
+Bati Assefa,Saint Francis (PA) Red Flash Women's,SR,G,28.0,1,Bench Guard/Wing,434744,511463,588183,5.2,0.363,0.265,0.795,0.141,0.091,0.1,0.8,0.135,0.479,Bati Assefa,5.033798454136333e-05
+Amelia Wood,Sacred Heart Pioneers Women's,SR,G,31.0,0,Elite Two-Way Big,567819,668022,768226,12.9,0.367,0.331,0.798,0.184,0.121,1.0,2.1,0.242,0.497,Amelia Wood,0.0006307745562213048
+Sierra Johnson,Sacred Heart Pioneers Women's,SR,G,31.0,1,Bench Guard/Wing,551224,648499,745774,3.0,0.307,0.467,0.5,0.15,0.042,0.1,0.9,0.127,0.361,Sierra Johnson,0.0007195790918182719
+Benthe Versteeg,Sacramento State Hornets Women's,SR,G,33.0,2,High-Volume Wing/Guard,550232,647332,744432,11.9,0.384,0.253,0.667,0.304,0.083,0.5,1.4,0.262,0.441,Benthe Versteeg,7.40312963481444e-05
+Kaylah Ivey,Rutgers Scarlet Knights Women's,SR,G,29.0,1,Bench Guard/Wing,484023,569439,654854,8.1,0.284,0.272,0.667,0.236,0.043,0.1,1.2,0.184,0.384,Kaylah Ivey,2.9955126257433972e-05
+Antonia Bates,Rutgers Scarlet Knights Women's,SR,G-F,29.0,1,Bench Guard/Wing,531459,625246,719033,2.0,0.292,0.235,0.611,0.15,0.103,0.6,1.0,0.083,0.354,Antonia Bates,0.0006363856152670388
+Aislin Malcolm,Robert Morris Colonials Women's,SR,G,30.0,2,High-Volume Wing/Guard,548365,645136,741906,11.8,0.371,0.3,0.844,0.184,0.069,0.4,0.5,0.243,0.495,Aislin Malcolm,7.95181050616059e-05
+Bailey Kuhns,Robert Morris Colonials Women's,SR,F,30.0,3,Interior Specialist,511630,601918,692206,9.7,0.463,0.19,0.714,0.113,0.127,0.2,0.3,0.259,0.503,Bailey Kuhns,0.00022678368228859543
+Noa Givon,Robert Morris Colonials Women's,SR,G,30.0,1,Bench Guard/Wing,445189,523752,602315,5.9,0.374,0.214,0.846,0.14,0.053,0.2,0.5,0.197,0.453,Noa Givon,8.592517708161585e-05
+Jada Lee,Robert Morris Colonials Women's,SR,G,30.0,1,Bench Guard/Wing,438973,516439,593905,5.5,0.338,0.246,0.839,0.174,0.084,0.1,1.6,0.131,0.457,Jada Lee,1.3455880046527567e-05
+Kristina Ekofo Yomane,Rider Broncs Women's,SR,F,29.0,2,High-Volume Wing/Guard,545232,641449,737666,11.7,0.372,0.216,0.845,0.237,0.091,0.4,1.2,0.299,0.436,Kristina Ekofo Yomane,4.516456959381264e-05
+Maggie Doogan,Richmond Spiders Women's,SR,F,34.0,0,Elite Two-Way Big,714631,840742,966854,21.1,0.506,0.404,0.89,0.262,0.136,1.1,0.9,0.31,0.641,Maggie Doogan,0.3185918872874472
+Rachel Ullstrom,Richmond Spiders Women's,SR,G,34.0,4,Efficient Role Player,585672,689026,792380,13.9,0.479,0.409,0.792,0.075,0.101,0.6,1.1,0.198,0.623,Rachel Ullstrom,0.09549365006816372
+Samantha Dewey,Richmond Spiders Women's,SR,F,34.0,4,Efficient Role Player,431018,507080,583142,5.0,0.404,0.349,0.8,0.086,0.076,0.0,0.5,0.131,0.55,Samantha Dewey,0.0006690601013653498
+Dominique Ennis,Rice Owls Women's,SR,G,35.0,2,High-Volume Wing/Guard,571492,672344,773196,13.1,0.388,0.345,0.898,0.102,0.056,0.3,1.5,0.212,0.519,Dominique Ennis,0.003895652736495307
+Shelby Hayes,Rice Owls Women's,SR,C,35.0,4,Efficient Role Player,551803,649180,746557,12.0,0.505,0.5,0.798,0.105,0.112,0.5,0.6,0.21,0.558,Shelby Hayes,0.0027651448805770078
+Hailey Adams,Rice Owls Women's,SR,G,35.0,3,Interior Specialist,487554,573593,659632,8.3,0.422,0.111,0.817,0.201,0.172,1.6,0.9,0.169,0.463,Hailey Adams,0.0007514319908937924
+Brooklyn Gray,Rhode Island Rams Women's,SR,G,33.0,2,High-Volume Wing/Guard,557176,655501,753826,12.3,0.411,0.305,0.905,0.158,0.095,0.2,1.2,0.22,0.521,Brooklyn Gray,0.006731027224864418
+Ines Debroise,Rhode Island Rams Women's,SR,G,33.0,2,High-Volume Wing/Guard,499957,588184,676412,9.1,0.392,0.297,0.846,0.192,0.064,0.0,1.2,0.183,0.529,Ines Debroise,0.0005568725714591981
+Ellie Taylor,Radford Highlanders Women's,SR,G-F,36.0,1,Bench Guard/Wing,453122,533085,613047,6.3,0.365,0.174,0.675,0.174,0.076,0.2,0.6,0.172,0.428,Ellie Taylor,0.00011371207312252007
+Kirah Dandridge,Radford Highlanders Women's,SR,G,36.0,1,Bench Guard/Wing,569137,669573,770009,4.0,0.289,0.281,0.613,0.125,0.072,0.2,1.6,0.122,0.384,Kirah Dandridge,4.954267220675483e-06
+Jackie Grisdale,Quinnipiac Bobcats Women's,SR,G,34.0,2,High-Volume Wing/Guard,560638,659574,758510,12.5,0.439,0.399,0.895,0.065,0.061,0.1,1.6,0.174,0.588,Jackie Grisdale,0.0012281232040159595
+Ella O'Donnell,Quinnipiac Bobcats Women's,SR,F,33.0,3,Interior Specialist,540111,635424,730738,11.4,0.495,0.0,0.656,0.295,0.145,0.2,1.2,0.306,0.519,Ella O'Donnell,8.334844875839451e-05
+Sydney Ryan,Quinnipiac Bobcats Women's,SR,G,34.0,4,Efficient Role Player,485193,570816,656438,8.2,0.394,0.354,0.836,0.056,0.119,0.1,1.2,0.173,0.543,Sydney Ryan,1.2069601433041642e-05
+Jermany Mapp,Queens (NC) Royals Women's,SR,G-F,30.0,1,Bench Guard/Wing,537825,632735,727645,11.2,0.343,0.338,0.902,0.089,0.033,0.2,0.7,0.2,0.463,Jermany Mapp,5.95843949744169e-05
+Dayuna Colvin,Queens (NC) Royals Women's,SR,G,30.0,1,Bench Guard/Wing,507576,597148,686720,9.5,0.346,0.233,0.681,0.198,0.055,0.0,1.4,0.219,0.423,Dayuna Colvin,2.6891011649337986e-05
+Ana Barreto,Queens (NC) Royals Women's,SR,G,30.0,1,Bench Guard/Wing,492567,579491,666414,8.6,0.284,0.303,0.694,0.175,0.064,0.1,0.9,0.196,0.392,Ana Barreto,3.790463512651493e-05
+Alana Nelson,Purdue Fort Wayne Mastodons Women's,SR,F,35.0,4,Efficient Role Player,632291,743872,855453,16.5,0.505,0.387,0.797,0.08,0.088,0.2,1.0,0.22,0.631,Alana Nelson,0.00029025161868475176
+Jordan Reid,Purdue Fort Wayne Mastodons Women's,SR,F,35.0,2,High-Volume Wing/Guard,526737,619691,712644,10.6,0.405,0.25,0.615,0.114,0.087,0.3,2.4,0.208,0.465,Jordan Reid,1.1500642616735368e-05
+Lauren Lee,Purdue Fort Wayne Mastodons Women's,SR,G,35.0,1,Bench Guard/Wing,439699,517293,594887,5.5,0.389,0.224,0.689,0.192,0.063,0.1,1.1,0.126,0.48,Lauren Lee,4.1369736680546477e-05
+Tara Daye,Purdue Boilermakers Women's,SR,G,30.0,0,Elite Two-Way Big,557764,656193,754622,12.4,0.472,0.341,0.759,0.178,0.137,0.3,1.2,0.236,0.544,Tara Daye,0.01632963217959572
+Sabou Gueye,Providence Friars Women's,SR,G,33.0,0,Elite Two-Way Big,615978,724680,833382,15.6,0.49,0.219,0.755,0.19,0.107,0.9,1.8,0.288,0.525,Sabou Gueye,0.0037207378643981533
+Teneisia Brown,Providence Friars Women's,SR,F,33.0,3,Interior Specialist,521023,612969,704914,10.3,0.429,0.176,0.75,0.094,0.131,0.1,1.2,0.237,0.484,Teneisia Brown,3.518589414859913e-05
+Madison St. Rose,Princeton Tigers Women's,SR,G,28.0,2,High-Volume Wing/Guard,618019,727081,836143,15.8,0.479,0.278,0.77,0.147,0.085,0.1,1.1,0.256,0.563,Madison St. Rose,0.0026582441542857683
+Jacia Cunningham,Presbyterian Blue Hose Women's,SR,G,29.0,1,Bench Guard/Wing,530717,624373,718029,10.8,0.319,0.247,0.699,0.115,0.092,0.3,0.8,0.355,0.393,Jacia Cunningham,9.392010026340143e-05
+Ciera Ellington,Portland State Vikings Women's,SR,G,30.0,3,Interior Specialist,515690,606694,697698,10.0,0.453,0.261,0.644,0.143,0.124,0.9,1.0,0.24,0.499,Ciera Ellington,2.0284118499229974e-05
+Ajae Yoakum,Portland State Vikings Women's,SR,F,29.0,3,Interior Specialist,446867,525726,604585,6.0,0.401,0.077,0.6,0.124,0.118,0.5,0.7,0.153,0.431,Ajae Yoakum,6.0600158240720314e-05
+Taylor Moffat,Portland State Vikings Women's,SR,G,29.0,1,Bench Guard/Wing,434598,511292,587986,5.2,0.349,0.287,0.625,0.187,0.059,0.2,0.7,0.159,0.461,Taylor Moffat,4.0405758552860706e-05
+Nicole Rodriguez,Portland Pilots Women's,SR,G,35.0,1,Bench Guard/Wing,480666,565489,650312,7.9,0.352,0.325,0.86,0.118,0.049,0.1,0.8,0.194,0.508,Nicole Rodriguez,2.847346872608291e-05
+Meghan Fiso,Pepperdine Waves Women's,SR,G,34.0,1,Bench Guard/Wing,532190,626106,720022,10.9,0.428,0.254,0.687,0.146,0.095,0.4,0.8,0.234,0.479,Meghan Fiso,0.00010220367224095783
+Simone Sawyer,Penn Quakers Women's,SR,G,27.0,2,High-Volume Wing/Guard,542830,638624,734417,11.5,0.429,0.337,0.881,0.089,0.084,0.3,1.6,0.203,0.56,Simone Sawyer,0.001192223320953069
+Saniah Caldwell,Penn Quakers Women's,SR,G,27.0,1,Bench Guard/Wing,441169,519022,596876,5.6,0.324,0.305,0.8,0.211,0.043,0.3,1.0,0.143,0.479,Saniah Caldwell,3.8182004325553365e-05
+Sydney Ward,Pacific Tigers Women's,SR,G,30.0,0,Elite Two-Way Big,538994,634111,729227,11.3,0.512,0.394,0.827,0.13,0.138,1.1,1.1,0.196,0.63,Sydney Ward,3.4592355043526605e-05
+Tiara Bolden,Oregon State Beavers Women's,SR,G,35.0,2,High-Volume Wing/Guard,579097,681291,783484,13.6,0.424,0.302,0.881,0.128,0.093,0.2,1.2,0.262,0.516,Tiara Bolden,0.001371826937423868
+Mia Jacobs,Oregon Ducks Women's,SR,F,34.0,0,Elite Two-Way Big,558560,657130,755699,12.4,0.411,0.356,0.828,0.113,0.111,0.4,1.2,0.243,0.567,Mia Jacobs,0.14889808324953047
+Jalei Oglesby,Oral Roberts Golden Eagles Women's,SR,G,28.0,0,Elite Two-Way Big,627013,737662,848312,16.2,0.481,0.2,0.732,0.111,0.096,0.2,1.4,0.275,0.513,Jalei Oglesby,0.0006862792238758611
+Sarai Estupiñan,Omaha Mavericks Women's,SR,G,33.0,2,High-Volume Wing/Guard,565743,665580,765417,12.8,0.35,0.297,0.86,0.312,0.031,0.0,0.4,0.3,0.48,Sarai Estupiñan,0.00028610910114558707
+Simaru Fields,Old Dominion Lady Monarchs Women's,SR,G,32.0,2,High-Volume Wing/Guard,570622,671320,772018,13.1,0.372,0.329,0.848,0.191,0.064,0.1,1.8,0.253,0.491,Simaru Fields,1.737108521853413e-05
+En'Dya Buford,Old Dominion Lady Monarchs Women's,SR,G,32.0,2,High-Volume Wing/Guard,551300,648588,745876,12.0,0.429,0.408,0.824,0.19,0.082,0.3,2.2,0.209,0.576,En'Dya Buford,0.0019842083024626403
+Simone Cunningham,Old Dominion Lady Monarchs Women's,SR,G,31.0,3,Interior Specialist,482759,567952,653144,8.1,0.466,0.0,0.667,0.078,0.119,0.9,0.8,0.184,0.507,Simone Cunningham,4.860591500681349e-05
+Kelsey Thompson,Old Dominion Lady Monarchs Women's,SR,G,32.0,1,Bench Guard/Wing,464496,546466,628436,7.0,0.423,0.2,0.778,0.093,0.085,0.3,0.5,0.181,0.454,Kelsey Thompson,0.00010504275734158795
+Micah Gray,Oklahoma State Cowgirls Women's,SR,G,34.0,2,High-Volume Wing/Guard,579396,681642,783888,13.6,0.395,0.348,0.803,0.1,0.039,0.1,0.9,0.225,0.542,Micah Gray,0.002041749848756101
+Haleigh Timmer,Oklahoma State Cowgirls Women's,SR,G,34.0,4,Efficient Role Player,543022,638849,734676,11.5,0.489,0.418,0.843,0.103,0.064,0.4,1.3,0.155,0.651,Haleigh Timmer,0.1859727846901221
+Raegan Beers,Oklahoma Sooners Women's,SR,F,34.0,3,Interior Specialist,618283,727392,836501,15.8,0.615,0.171,0.597,0.166,0.197,1.0,0.9,0.246,0.624,Raegan Beers,0.7570144728608943
+Payton Verhulst,Oklahoma Sooners Women's,SR,G,34.0,2,High-Volume Wing/Guard,551300,648588,745876,12.0,0.414,0.3,0.811,0.151,0.084,0.9,1.5,0.182,0.505,Payton Verhulst,0.2143225925557322
+Chance Gray,Ohio State Buckeyes Women's,SR,G,35.0,2,High-Volume Wing/Guard,598439,704046,809653,14.7,0.453,0.405,0.886,0.142,0.042,0.0,0.9,0.204,0.587,Chance Gray,0.07317153482641234
+Elli Garnett,Ohio Bobcats Women's,SR,G,30.0,3,Interior Specialist,490840,577459,664078,8.5,0.382,0.291,0.661,0.179,0.127,0.3,1.0,0.216,0.49,Elli Garnett,1.9594010194666304e-05
+Aliah McWhorter,Ohio Bobcats Women's,SR,G,30.0,1,Bench Guard/Wing,474775,558559,642342,7.6,0.444,0.316,0.58,0.118,0.058,0.4,0.9,0.183,0.494,Aliah McWhorter,3.836633776419999e-05
+Filippa Goula,Oakland Golden Grizzlies Women's,SR,G,30.0,2,High-Volume Wing/Guard,500639,588987,677335,9.1,0.402,0.353,0.822,0.209,0.074,0.1,0.8,0.199,0.505,Filippa Goula,8.907060236493063e-05
+Lianna Baxter,Oakland Golden Grizzlies Women's,SR,C,31.0,4,Efficient Role Player,494443,581698,668953,8.7,0.403,0.314,0.746,0.091,0.095,0.8,0.6,0.162,0.506,Lianna Baxter,3.516511377565999e-05
+Cassandre Prosper,Notre Dame Fighting Irish Women's,SR,G,36.0,0,Elite Two-Way Big,579802,682120,784438,13.6,0.492,0.305,0.738,0.087,0.113,1.1,1.6,0.209,0.549,Cassandre Prosper,0.5284489263432275
+Iyana Moore,Notre Dame Fighting Irish Women's,SR,G,34.0,2,High-Volume Wing/Guard,548193,644933,741673,11.8,0.391,0.372,0.87,0.069,0.062,0.3,1.4,0.188,0.547,Iyana Moore,0.0062591415842360295
+Vanessa de Jesus,Notre Dame Fighting Irish Women's,SR,G,36.0,2,High-Volume Wing/Guard,488348,574527,660706,8.4,0.402,0.4,0.9,0.124,0.047,0.2,1.8,0.136,0.534,Vanessa de Jesus,0.000676980266928559
+Nya Valentine,Northwestern State Lady Demons Women's,SR,G,32.0,2,High-Volume Wing/Guard,570069,670669,771269,13.1,0.369,0.342,0.875,0.295,0.04,0.0,1.2,0.219,0.514,Nya Valentine,2.3645999888614084e-05
+Tiara Abron,Northwestern State Lady Demons Women's,SR,G,32.0,1,Bench Guard/Wing,503238,592045,680852,9.2,0.374,0.278,0.738,0.144,0.07,0.1,0.9,0.218,0.445,Tiara Abron,5.390275909958245e-05
+Carla Celaya,Northwestern State Lady Demons Women's,SR,G,32.0,3,Interior Specialist,426833,502157,577480,4.8,0.379,0.255,0.577,0.138,0.138,0.1,1.5,0.127,0.451,Carla Celaya,1.4868096639262496e-05
+Grace Sullivan,Northwestern Wildcats Women's,SR,F,28.0,0,Elite Two-Way Big,720790,847988,975186,21.4,0.53,0.0,0.776,0.094,0.104,0.8,1.1,0.313,0.557,Grace Sullivan,0.020430935054181757
+Caroline Lau,Northwestern Wildcats Women's,SR,G,29.0,2,High-Volume Wing/Guard,495924,583440,670956,8.8,0.349,0.325,0.673,0.478,0.092,0.2,1.0,0.206,0.45,Caroline Lau,0.00015749455426302832
+Mya Meredith,Northern Kentucky Norse Women's,SR,G,31.0,4,Efficient Role Player,527526,620619,713712,10.6,0.472,0.33,0.739,0.166,0.086,0.5,1.4,0.213,0.565,Mya Meredith,1.8931206908017035e-05
+Taysha Rushton,Northern Kentucky Norse Women's,SR,G,32.0,1,Bench Guard/Wing,501614,590134,678654,9.2,0.319,0.26,0.782,0.173,0.061,0.2,0.8,0.216,0.432,Taysha Rushton,3.123762339593411e-05
+Ryley Goebel,Northern Iowa Panthers Women's,SR,F,32.0,0,Elite Two-Way Big,591173,695498,799822,14.2,0.591,0.273,0.575,0.111,0.152,2.7,1.8,0.247,0.597,Ryley Goebel,0.06500963143494706
+Taryn Wharton,Northern Iowa Panthers Women's,SR,G,32.0,1,Bench Guard/Wing,480036,564748,649460,7.9,0.365,0.269,0.851,0.184,0.046,0.0,1.0,0.185,0.443,Taryn Wharton,4.4301344682663604e-05
+Maria Serracanta,Northern Illinois Huskies Women's,SR,G,30.0,1,Bench Guard/Wing,441797,519761,597725,5.7,0.376,0.255,0.645,0.267,0.07,0.2,1.2,0.125,0.456,Maria Serracanta,2.0728908446388314e-05
+Gabi Fields,Northern Colorado Bears Women's,SR,G,34.0,2,High-Volume Wing/Guard,467012,549426,631840,7.1,0.411,0.224,0.725,0.221,0.057,0.2,2.3,0.146,0.492,Gabi Fields,0.0006614897066073274
+Simone Morris,Northern Arizona Lumberjacks Women's,SR,G,30.0,1,Bench Guard/Wing,462218,543785,625353,6.9,0.352,0.286,0.75,0.081,0.091,0.2,1.0,0.187,0.428,Simone Morris,3.0440227433854956e-05
+Audrey Taylor,Northern Arizona Lumberjacks Women's,SR,G,30.0,1,Bench Guard/Wing,457666,538430,619195,6.6,0.325,0.319,0.647,0.172,0.043,0.0,1.7,0.146,0.452,Audrey Taylor,8.920346389177012e-06
+Nariyah Simmons,Northeastern Huskies Women's,SR,G,29.0,1,Bench Guard/Wing,446282,525037,603793,5.9,0.318,0.292,0.756,0.171,0.082,0.2,1.8,0.182,0.436,Nariyah Simmons,1.0713067787148554e-05
+Jazzy owens-Barnett,North Texas Mean Green Women's,SR,G,31.0,1,Bench Guard/Wing,481649,566645,651642,8.0,0.354,0.308,0.794,0.168,0.048,0.1,0.9,0.206,0.488,Jazzy owens-Barnett,3.454751231780713e-05
+Mackenzie Hughes,North Dakota Fighting Hawks Women's,SR,G,31.0,2,High-Volume Wing/Guard,554710,652600,750491,12.2,0.364,0.25,0.833,0.279,0.048,0.1,0.9,0.242,0.492,Mackenzie Hughes,0.00013587502080364815
+Morgan Callahan,North Carolina Central Eagles Women's,SR,F,28.0,3,Interior Specialist,546271,642672,739073,11.7,0.399,0.0,0.473,0.103,0.116,0.5,1.8,0.242,0.419,Morgan Callahan,0.00010358261385435598
+Najah Lane,North Carolina Central Eagles Women's,SR,G,29.0,1,Bench Guard/Wing,443356,521595,599834,5.8,0.292,0.194,0.753,0.236,0.051,0.2,1.4,0.154,0.399,Najah Lane,5.300253927276481e-05
+Chaniya Clark,North Carolina A&T Aggies Women's,SR,C,28.0,0,Elite Two-Way Big,567697,667878,768060,12.9,0.46,0.268,0.769,0.106,0.162,1.6,0.5,0.26,0.561,Chaniya Clark,0.009555148829680227
+D’Mya Tucker,North Carolina A&T Aggies Women's,SR,G,27.0,1,Bench Guard/Wing,528550,621823,715097,10.7,0.396,0.301,0.735,0.159,0.06,0.3,0.9,0.204,0.483,D’Mya Tucker,0.00025923541681802575
+Nyla Harris,UNC Tar Heels Women's,SR,F,35.0,3,Interior Specialist,540749,636175,731602,11.4,0.576,0.133,0.787,0.071,0.162,0.3,1.0,0.22,0.619,Nyla Harris,0.731310779900019
+Indya Nivar,UNC Tar Heels Women's,SR,G,35.0,0,Elite Two-Way Big,526737,619691,712644,10.6,0.451,0.313,0.6,0.233,0.101,0.5,2.7,0.22,0.506,Indya Nivar,0.8360833945600135
+Alexsandra Alvarado,North Alabama Lions Women's,SR,G,31.0,2,High-Volume Wing/Guard,582127,684856,787584,13.7,0.388,0.303,0.764,0.243,0.065,0.3,1.3,0.262,0.506,Alexsandra Alvarado,4.09478753840896e-05
+Jasha Clinton,Norfolk State Spartans Women's,SR,G,33.0,2,High-Volume Wing/Guard,571109,671893,772677,13.1,0.417,0.241,0.748,0.277,0.063,0.4,3.5,0.243,0.482,Jasha Clinton,0.00021520801891757198
+Sh'Diamond McKnight,Nicholls State Colonels Women's,SR,G,31.0,2,High-Volume Wing/Guard,555848,653939,752030,12.3,0.339,0.248,0.717,0.185,0.078,0.1,1.8,0.334,0.431,Sh'Diamond McKnight,3.755486181857707e-05
+Emani Burks,Nicholls State Colonels Women's,SR,F,31.0,3,Interior Specialist,429433,505216,580998,4.9,0.424,0.263,0.565,0.105,0.139,1.0,1.2,0.146,0.461,Emani Burks,1.438061609885122e-05
+Talia Dial,Niagara Purple Eagles Women's,SR,F,29.0,1,Bench Guard/Wing,546444,642876,739307,11.7,0.305,0.289,0.797,0.08,0.032,0.2,1.1,0.224,0.429,Talia Dial,5.4596300302178466e-05
+Lauren Banks,New Orleans Privateers Women's,SR,G,30.0,1,Bench Guard/Wing,502950,591705,680461,9.2,0.323,0.238,0.771,0.088,0.093,0.4,1.1,0.192,0.432,Lauren Banks,1.3726865924455238e-05
+Braille Washington,New Orleans Privateers Women's,SR,G,28.0,1,Bench Guard/Wing,513784,604451,695119,9.9,0.307,0.294,0.629,0.118,0.05,0.1,1.3,0.269,0.385,Braille Washington,2.3546473795735533e-05
+Shanihya Brown,New Orleans Privateers Women's,SR,G,29.0,2,High-Volume Wing/Guard,506678,596092,685506,9.4,0.385,0.222,0.678,0.332,0.055,0.0,2.4,0.24,0.459,Shanihya Brown,3.299406870036553e-05
+Jayla Kimbrough,New Orleans Privateers Women's,SR,G,28.0,1,Bench Guard/Wing,468163,550780,633397,7.2,0.328,0.045,0.723,0.084,0.107,0.5,0.8,0.225,0.38,Jayla Kimbrough,4.6866064637329345e-05
+Lucia Yenes,New Mexico State Aggies Women's,SR,F,30.0,0,Elite Two-Way Big,561296,660348,759401,12.6,0.423,0.293,0.75,0.126,0.104,0.8,1.5,0.269,0.475,Lucia Yenes,3.4697772595167926e-05
+Anna Csenyi,New Mexico State Aggies Women's,SR,G,30.0,1,Bench Guard/Wing,440102,517767,595433,5.6,0.321,0.275,0.632,0.048,0.025,0.2,0.6,0.173,0.42,Anna Csenyi,9.06976536677114e-05
+Loes Rozing,New Mexico State Aggies Women's,SR,G,30.0,1,Bench Guard/Wing,557416,655784,754151,3.4,0.32,0.25,0.5,0.071,0.066,0.1,0.9,0.119,0.381,Loes Rozing,4.264048222111838e-05
+Alyssa Hargrove,New Mexico Lobos Women's,SR,G,32.0,1,Bench Guard/Wing,456494,537051,617609,6.5,0.348,0.259,0.76,0.192,0.069,0.4,1.6,0.179,0.432,Alyssa Hargrove,6.78212847219658e-06
+Lindsay Hogan,New Haven Chargers Women's,SR,F,27.0,2,High-Volume Wing/Guard,548691,645519,742347,11.9,0.387,0.288,0.806,0.171,0.09,0.5,1.0,0.213,0.477,Lindsay Hogan,4.384063861782584e-05
+Aaliyah Alexander,UNLV Rebels Women's,SR,G,32.0,1,Bench Guard/Wing,539213,634369,729524,11.3,0.366,0.375,0.857,0.194,0.04,0.1,0.8,0.204,0.504,Aaliyah Alexander,5.757940327173189e-05
+Shelbee Brown,UNLV Rebels Women's,SR,F,32.0,3,Interior Specialist,533735,627924,722112,11.0,0.511,0.0,0.707,0.132,0.202,0.2,1.9,0.244,0.552,Shelbee Brown,0.001994868294365311
+Mariah Elohim,UNLV Rebels Women's,SR,G,32.0,1,Bench Guard/Wing,476277,560326,644375,7.7,0.373,0.372,0.9,0.126,0.026,0.1,0.4,0.155,0.518,Mariah Elohim,0.0006942987977602242
+Callin Hake,Nebraska Cornhuskers Women's,SR,G,32.0,2,High-Volume Wing/Guard,468239,550870,633500,7.2,0.372,0.349,0.88,0.204,0.056,0.2,1.3,0.146,0.538,Callin Hake,0.023754592847095534
+Sharnecce Currie-Jelks,Murray State Racers Women's,SR,F,35.0,0,Elite Two-Way Big,647267,761490,875714,17.4,0.551,0.27,0.756,0.12,0.206,1.1,1.3,0.254,0.606,Sharnecce Currie-Jelks,0.007054025573487134
+Briley Pena,Murray State Racers Women's,SR,G,34.0,1,Bench Guard/Wing,428041,503578,579115,4.9,0.336,0.308,0.852,0.059,0.038,0.1,0.6,0.087,0.501,Briley Pena,0.0013416408218791837
+Giana Hoddinott,Mount St. Mary's Mountaineers Women's,SR,G,30.0,1,Bench Guard/Wing,459941,541107,622273,6.7,0.33,0.294,0.844,0.195,0.037,0.0,1.6,0.165,0.45,Giana Hoddinott,8.628552756022616e-06
+Jaedyn Jamison,Mount St. Mary's Mountaineers Women's,SR,F,30.0,1,Bench Guard/Wing,432210,508482,584754,5.1,0.386,0.339,0.553,0.094,0.087,0.6,1.3,0.128,0.469,Jaedyn Jamison,9.75604282497688e-06
+Mihjae Hayes,Morgan State Bears Women's,SR,G,31.0,1,Bench Guard/Wing,443073,521262,599452,5.7,0.346,0.293,0.75,0.328,0.042,0.0,1.5,0.179,0.433,Mihjae Hayes,2.1972024471100306e-05
+Kateryna Dike,Morehead State Eagles Women's,SR,F,33.0,0,Elite Two-Way Big,589958,694068,798178,14.2,0.482,0.329,0.689,0.121,0.158,0.7,1.2,0.303,0.551,Kateryna Dike,6.764208579230039e-05
+Laura Toffali,Morehead State Eagles Women's,SR,G,33.0,2,High-Volume Wing/Guard,558781,657389,755997,12.4,0.415,0.204,0.682,0.131,0.083,0.2,3.1,0.227,0.502,Laura Toffali,8.257084649520426e-05
+Marie Sepp,Morehead State Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,519080,610683,702285,10.2,0.419,0.227,0.568,0.292,0.086,0.1,1.3,0.211,0.478,Marie Sepp,1.3502566284676756e-05
+Alexis Andrews,Monmouth Hawks Women's,SR,G,33.0,1,Bench Guard/Wing,529492,622932,716372,10.8,0.325,0.256,0.696,0.127,0.039,0.1,1.0,0.215,0.428,Alexis Andrews,7.018795661618454e-05
+Ella Farrelly,Monmouth Hawks Women's,SR,F,33.0,3,Interior Specialist,570258,670892,771526,4.1,0.378,0.194,0.583,0.089,0.123,0.8,0.7,0.104,0.434,Ella Farrelly,1.5863374875693652e-05
+Faith Lee,Missouri State Lady Bears Women's,SR,F,36.0,1,Bench Guard/Wing,470202,553178,636155,7.3,0.366,0.111,0.746,0.069,0.062,0.1,0.8,0.237,0.406,Faith Lee,0.00013549809817254533
+Cady Pauley,Missouri State Lady Bears Women's,SR,G,27.0,1,Bench Guard/Wing,446824,525675,604527,6.0,0.348,0.27,0.852,0.125,0.064,0.2,0.7,0.168,0.5,Cady Pauley,4.649752040885967e-05
+Maycee James,Missouri State Lady Bears Women's,SR,G,36.0,1,Bench Guard/Wing,550627,647796,744966,3.0,0.29,0.214,0.653,0.207,0.07,0.2,2.4,0.119,0.402,Maycee James,0.0026516874249029724
+Jordana Reisma,Missouri Tigers Women's,SR,F,29.0,4,Efficient Role Player,523485,615865,708244,10.4,0.545,0.368,0.69,0.115,0.103,0.6,0.6,0.188,0.603,Jordana Reisma,0.0013630533297870559
+Jayla Smith,Missouri Tigers Women's,SR,G,33.0,4,Efficient Role Player,477481,561742,646003,7.8,0.435,0.296,0.882,0.082,0.064,0.8,1.0,0.17,0.549,Jayla Smith,0.002585483008358993
+Ariel Jefferson,Mississippi Valley State Devilettes Women's,SR,F,31.0,3,Interior Specialist,497233,584980,672726,8.9,0.386,0.264,0.663,0.03,0.119,0.5,1.0,0.204,0.469,Ariel Jefferson,2.5060564881842512e-05
+Janiya Jones,Mississippi Valley State Devilettes Women's,SR,G,31.0,1,Bench Guard/Wing,470017,552962,635906,7.3,0.268,0.256,0.73,0.12,0.06,0.2,1.0,0.185,0.387,Janiya Jones,1.614748771611683e-05
+Destiney McPhaul,Mississippi State Bulldogs Women's,SR,G,31.0,2,High-Volume Wing/Guard,506176,595501,684826,9.4,0.426,0.311,0.759,0.257,0.043,0.2,1.5,0.179,0.528,Destiney McPhaul,0.0012666702556761475
+Kharyssa Richardson,Mississippi State Bulldogs Women's,SR,F,30.0,3,Interior Specialist,505840,595106,684372,9.4,0.418,0.333,0.773,0.043,0.097,0.3,0.6,0.225,0.495,Kharyssa Richardson,0.0008286990772256993
+Trayanna Crisp,Mississippi State Bulldogs Women's,SR,G,30.0,2,High-Volume Wing/Guard,493719,580846,667972,8.7,0.383,0.371,0.846,0.166,0.04,0.0,0.9,0.163,0.547,Trayanna Crisp,3.515130221797799e-05
+Chandler Prater,Mississippi State Bulldogs Women's,SR,F,30.0,0,Elite Two-Way Big,483370,568670,653971,8.1,0.424,0.348,0.836,0.146,0.123,0.2,1.3,0.201,0.526,Chandler Prater,0.03687768352586999
+Cotie McMahon,Ole Miss Rebels Women's,SR,F,36.0,2,High-Volume Wing/Guard,686521,807671,928822,19.5,0.451,0.286,0.735,0.229,0.095,0.4,1.1,0.325,0.533,Cotie McMahon,0.9173755955259552
+Latasha Lattimore,Ole Miss Rebels Women's,SR,F,36.0,0,Elite Two-Way Big,531303,625063,718822,10.9,0.482,0.319,0.711,0.077,0.129,2.1,0.6,0.211,0.545,Latasha Lattimore,0.20910203294238325
+Debreasha Powe,Ole Miss Rebels Women's,SR,G-F,36.0,1,Bench Guard/Wing,440855,518653,596451,5.6,0.348,0.278,0.967,0.085,0.053,0.7,0.7,0.109,0.476,Debreasha Powe,0.0103200628777008
+Mara Braun,Minnesota Golden Gophers Women's,SR,G,33.0,2,High-Volume Wing/Guard,545967,642314,738661,11.7,0.396,0.347,0.898,0.129,0.072,0.6,1.3,0.191,0.516,Mara Braun,0.18671625871053169
+Amaya Battle,Minnesota Golden Gophers Women's,SR,G,33.0,0,Elite Two-Way Big,535859,630422,724986,11.1,0.383,0.317,0.831,0.203,0.138,0.3,1.2,0.231,0.449,Amaya Battle,0.0588711406959935
+Brylee Glenn,Minnesota Golden Gophers Women's,SR,G,33.0,1,Bench Guard/Wing,455186,535513,615840,6.5,0.411,0.279,0.641,0.143,0.069,0.2,1.2,0.178,0.458,Brylee Glenn,0.02397857245720629
+Grace Lomen,Milwaukee Panthers Women's,SR,F,31.0,2,High-Volume Wing/Guard,528090,621283,714475,10.7,0.383,0.361,0.838,0.126,0.093,0.0,1.0,0.288,0.506,Grace Lomen,2.8490999323413655e-05
+Alayna Contreras,Middle Tennessee Blue Raiders Women's,SR,G,33.0,2,High-Volume Wing/Guard,592119,696610,801102,14.3,0.378,0.35,0.85,0.183,0.04,0.1,1.5,0.268,0.504,Alayna Contreras,1.7235603403922883e-05
+Grace VanSlooten,Michigan State Spartans Women's,SR,F,32.0,0,Elite Two-Way Big,605689,712575,819461,15.1,0.5,0.5,0.659,0.145,0.137,1.0,1.9,0.264,0.527,Grace VanSlooten,0.571314316031846
+Jalyn Brown,Michigan State Spartans Women's,SR,G,32.0,4,Efficient Role Player,534830,629212,723594,11.1,0.519,0.413,0.721,0.104,0.059,0.3,0.9,0.203,0.601,Jalyn Brown,0.01058193062276342
+Emma Shumate,Michigan State Spartans Women's,SR,G,32.0,4,Efficient Role Player,453831,533919,614007,6.4,0.43,0.415,0.5,0.053,0.053,0.7,0.8,0.109,0.619,Emma Shumate,0.11490262632297914
+Brooke Quarles-Daniels,Michigan Wolverines Women's,SR,F,35.0,3,Interior Specialist,445512,524132,602752,5.9,0.48,0.0,0.609,0.164,0.118,0.2,2.5,0.128,0.505,Brooke Quarles-Daniels,0.4772151510320454
+Amber Scalia,Miami (OH) RedHawks Women's,SR,G,35.0,2,High-Volume Wing/Guard,581128,683680,786232,13.7,0.417,0.342,0.816,0.159,0.056,0.1,0.9,0.237,0.55,Amber Scalia,0.0002461396908455138
+Ra Shaya Kyle,Miami (FL) Hurricanes Women's,SR,C,32.0,3,Interior Specialist,627576,738325,849073,16.3,0.558,0.0,0.709,0.138,0.197,0.7,0.4,0.275,0.599,Ra Shaya Kyle,0.08156986091961813
+Lydia Melashenko,Merrimack Warriors Women's,SR,G,32.0,2,High-Volume Wing/Guard,532641,626636,720631,10.9,0.342,0.351,0.816,0.096,0.045,0.0,1.3,0.185,0.502,Lydia Melashenko,1.2067312640669834e-05
+Oralye Kiefer,Merrimack Warriors Women's,SR,F,30.0,0,Elite Two-Way Big,519755,611477,703198,10.2,0.403,0.284,0.804,0.101,0.103,2.3,0.5,0.198,0.486,Oralye Kiefer,0.001360301832827372
+Se'Lah Reddick,Merrimack Warriors Women's,SR,G,30.0,1,Bench Guard/Wing,469060,551835,634610,7.3,0.427,0.241,0.676,0.165,0.084,0.3,1.1,0.164,0.463,Se'Lah Reddick,4.853365563201615e-05
+Molly Manion,Merrimack Warriors Women's,SR,G,32.0,4,Efficient Role Player,443210,521423,599637,5.8,0.467,0.356,0.5,0.087,0.048,0.4,0.6,0.135,0.545,Molly Manion,6.537370719342826e-05
+Jenna Van Schaik,Mercyhurst Lakers Women's,SR,G,31.0,2,High-Volume Wing/Guard,584422,687556,790689,13.9,0.467,0.346,0.793,0.256,0.057,0.3,1.5,0.236,0.573,Jenna Van Schaik,3.003294953716115e-05
+Nahawa Diarra Berthe,Mercer Bears Women's,SR,G,29.0,2,High-Volume Wing/Guard,534339,628634,722929,11.0,0.338,0.343,0.757,0.15,0.093,0.0,1.7,0.222,0.448,Nahawa Diarra Berthe,1.227182608565329e-05
+Ariana Bennett,Mercer Bears Women's,SR,F,28.0,3,Interior Specialist,518137,609573,701009,10.1,0.447,0.0,0.775,0.068,0.096,1.0,0.7,0.247,0.512,Ariana Bennett,0.0007190431191425751
+Arianna Patton,McNeese Cowgirls Women's,SR,G,35.0,2,High-Volume Wing/Guard,534236,628512,722789,11.0,0.404,0.399,0.833,0.082,0.029,0.0,1.4,0.196,0.561,Arianna Patton,0.0006579728490820417
+Jen Pierre,McNeese Cowgirls Women's,SR,G,34.0,2,High-Volume Wing/Guard,510130,600154,690177,9.6,0.429,0.275,0.711,0.332,0.056,0.0,2.1,0.241,0.489,Jen Pierre,0.0012638469005240704
+Allasia Washington,McNeese Cowgirls Women's,SR,G,35.0,1,Bench Guard/Wing,436314,513311,590307,5.3,0.304,0.279,0.753,0.128,0.075,0.0,1.6,0.163,0.43,Allasia Washington,6.525089602969901e-06
+Jaini Edmonds,UMass-Lowell River Hawks Women's,SR,G,29.0,2,High-Volume Wing/Guard,576298,677998,779697,13.4,0.361,0.258,0.816,0.231,0.061,0.2,0.9,0.288,0.459,Jaini Edmonds,0.00034175228610540983
+Sabrina Larsson,UMass-Lowell River Hawks Women's,SR,G,29.0,1,Bench Guard/Wing,477499,561763,646027,7.8,0.37,0.351,0.682,0.08,0.063,0.3,0.8,0.146,0.508,Sabrina Larsson,7.906128742581058e-05
+Megan Olbrys,UMass Minutewomen Women's,SR,F,30.0,0,Elite Two-Way Big,584346,687466,790586,13.9,0.513,0.268,0.688,0.173,0.147,0.9,1.7,0.234,0.567,Megan Olbrys,0.007387911559223685
+Allie Palmieri,UMass Minutewomen Women's,SR,G,29.0,2,High-Volume Wing/Guard,567130,667212,767293,12.9,0.382,0.314,0.768,0.103,0.068,0.1,1.2,0.21,0.491,Allie Palmieri,4.847667783015878e-06
+Lilly Ferguson,UMass Minutewomen Women's,SR,G,30.0,3,Interior Specialist,431647,507820,583993,5.1,0.44,0.2,0.722,0.128,0.149,0.0,1.0,0.127,0.481,Lilly Ferguson,1.913120005599466e-05
+Ashanti Lynch,Maryland-Eastern Shore Hawks Women's,SR,G,35.0,0,Elite Two-Way Big,550293,647404,744514,11.9,0.421,0.288,0.82,0.145,0.114,0.3,1.8,0.269,0.516,Ashanti Lynch,0.0013481617435095541
+Brianna Barnes,Maryland-Eastern Shore Hawks Women's,SR,F,35.0,2,High-Volume Wing/Guard,515773,606792,697810,10.0,0.38,0.293,0.727,0.14,0.095,0.1,1.7,0.28,0.47,Brianna Barnes,2.493148151239731e-05
+Dakieren Turner,Maryland-Eastern Shore Hawks Women's,SR,F,33.0,3,Interior Specialist,433592,510108,586624,5.2,0.328,0.143,0.722,0.088,0.143,0.3,0.8,0.135,0.399,Dakieren Turner,0.00011894376832287332
+Carmen Yanez,UMBC Retrievers Women's,SR,G,32.0,1,Bench Guard/Wing,439502,517062,594621,5.5,0.307,0.281,0.879,0.252,0.037,0.0,0.9,0.127,0.432,Carmen Yanez,5.1927381895282744e-05
+Tiara Bellamy,UMBC Retrievers Women's,SR,G,32.0,1,Bench Guard/Wing,572606,673654,774702,4.2,0.342,0.182,0.684,0.063,0.059,0.1,1.1,0.143,0.387,Tiara Bellamy,5.9115911770504555e-05
+Yarden Garzon,Maryland Terrapins Women's,SR,G,33.0,2,High-Volume Wing/Guard,559851,658648,757445,12.5,0.405,0.367,0.875,0.156,0.068,0.4,1.1,0.188,0.542,Yarden Garzon,0.16179411245096947
+Saylor Poffenbarger,Maryland Terrapins Women's,SR,G,31.0,0,Elite Two-Way Big,507856,597478,687099,9.5,0.385,0.309,0.74,0.174,0.133,0.6,1.9,0.176,0.494,Saylor Poffenbarger,0.13063586554572812
+Timaya Lewis-Eutsey,Marshall Thundering Herd Women's,SR,G,37.0,2,High-Volume Wing/Guard,695665,818430,941194,20.0,0.502,0.222,0.75,0.333,0.07,0.8,3.8,0.345,0.568,Timaya Lewis-Eutsey,0.8293742512676809
+Meredith Maier,Marshall Thundering Herd Women's,SR,F,37.0,2,High-Volume Wing/Guard,503121,591907,680694,9.2,0.358,0.351,0.808,0.088,0.074,0.7,0.9,0.182,0.513,Meredith Maier,0.0006797404386433684
+Peyton Ilderton,Marshall Thundering Herd Women's,SR,G,37.0,2,High-Volume Wing/Guard,502653,591356,680060,9.2,0.384,0.363,0.796,0.154,0.041,0.0,2.0,0.157,0.556,Peyton Ilderton,1.0432556481978468e-05
+Lee Volker,Marquette Golden Eagles Women's,SR,G,30.0,2,High-Volume Wing/Guard,550126,647206,744287,11.9,0.449,0.423,0.862,0.159,0.092,0.5,1.4,0.182,0.591,Lee Volker,0.12414046430517445
+Jaidynn Mason,Marquette Golden Eagles Women's,SR,G,29.0,2,High-Volume Wing/Guard,499504,587652,675800,9.0,0.424,0.256,0.807,0.37,0.084,0.5,1.4,0.244,0.485,Jaidynn Mason,2.7633863819553777e-05
+Lexie Tarul,Marist Red Foxes Women's,SR,G,31.0,2,High-Volume Wing/Guard,556417,654609,752800,12.3,0.375,0.339,0.764,0.097,0.086,0.4,1.5,0.227,0.508,Lexie Tarul,1.8332670137400538e-05
+Jackie Piddock,Marist Red Foxes Women's,SR,G,31.0,1,Bench Guard/Wing,464496,546466,628436,7.0,0.328,0.344,0.879,0.237,0.043,0.0,1.1,0.161,0.479,Jackie Piddock,2.1315454756633576e-05
+Brianna Davis,Manhattan Lady Jaspers Women's,SR,G,31.0,2,High-Volume Wing/Guard,617295,726229,835163,15.7,0.415,0.336,0.816,0.202,0.061,0.7,1.8,0.261,0.511,Brianna Davis,3.823712961854303e-05
+Colette Mulderig,Manhattan Lady Jaspers Women's,SR,F,31.0,0,Elite Two-Way Big,526963,619956,712949,10.6,0.453,0.333,0.787,0.082,0.108,1.5,0.5,0.235,0.51,Colette Mulderig,9.382756845413456e-05
+Elisa Solé Sanchez,Manhattan Lady Jaspers Women's,SR,G,31.0,2,High-Volume Wing/Guard,491100,577765,664429,8.5,0.317,0.263,0.806,0.277,0.058,0.1,1.6,0.284,0.406,Elisa Solé Sanchez,1.9316113149204303e-05
+Hana Muhl,Manhattan Lady Jaspers Women's,SR,G,31.0,1,Bench Guard/Wing,469465,552312,635158,7.3,0.362,0.216,0.869,0.291,0.078,0.1,1.5,0.152,0.479,Hana Muhl,1.841597218187934e-05
+Agar Farres Garcia,Manhattan Lady Jaspers Women's,SR,F,31.0,3,Interior Specialist,581666,684313,786960,4.7,0.375,0.143,0.484,0.143,0.161,0.3,1.5,0.131,0.4,Agar Farres Garcia,1.8612876918754517e-05
+Adrianna Smith,Maine Black Bears Women's,SR,F,32.0,0,Elite Two-Way Big,745906,877536,1009166,22.8,0.451,0.333,0.775,0.414,0.179,0.8,1.8,0.39,0.514,Adrianna Smith,0.24541491921983447
+Asta Blauenfeldt,Maine Black Bears Women's,SR,G,32.0,2,High-Volume Wing/Guard,534283,628568,722853,11.0,0.428,0.353,0.85,0.104,0.032,0.2,1.6,0.18,0.546,Asta Blauenfeldt,4.917851885378168e-06
+Sarah Talon,Maine Black Bears Women's,SR,G,32.0,4,Efficient Role Player,496744,584405,672066,8.9,0.467,0.279,0.602,0.12,0.085,0.5,1.3,0.172,0.524,Sarah Talon,7.469569082390866e-06
+Jess Lawson,Loyola Marymount Lions Women's,SR,G,31.0,0,Elite Two-Way Big,605148,711938,818729,15.0,0.425,0.372,0.742,0.187,0.189,0.1,2.2,0.287,0.515,Jess Lawson,0.06301701561744459
+Andjela Matic,Loyola Marymount Lions Women's,SR,G,31.0,2,High-Volume Wing/Guard,524145,616641,709138,10.5,0.367,0.392,0.77,0.167,0.058,0.0,1.0,0.174,0.509,Andjela Matic,3.710973439481467e-05
+Carly Heidger,Loyola Marymount Lions Women's,SR,G,31.0,1,Bench Guard/Wing,479429,564035,648640,7.9,0.42,0.281,0.837,0.082,0.066,0.0,1.1,0.148,0.519,Carly Heidger,1.4424412661678921e-05
+Ivana Krajina,Loyola Marymount Lions Women's,SR,G,31.0,1,Bench Guard/Wing,448549,527705,606861,6.1,0.398,0.347,0.743,0.183,0.044,0.1,1.2,0.149,0.501,Ivana Krajina,1.1185277204627593e-05
+Lex Therien,Loyola (MD) Greyhounds Women's,SR,F,30.0,0,Elite Two-Way Big,613530,721800,830070,15.5,0.545,0.286,0.717,0.232,0.19,0.3,1.5,0.315,0.577,Lex Therien,0.00014762000961329
+Koi Sims,Loyola (MD) Greyhounds Women's,SR,F,30.0,3,Interior Specialist,487965,574076,660187,8.4,0.487,0.368,0.356,0.163,0.183,0.5,0.5,0.211,0.491,Koi Sims,9.451477340047017e-05
+Kira Chivers,Loyola (IL) Ramblers Women's,SR,G,31.0,1,Bench Guard/Wing,432155,508418,584681,5.1,0.318,0.278,0.686,0.157,0.031,0.0,1.0,0.11,0.443,Kira Chivers,0.0006858336284504435
+Laura Ziegler,Louisville Cardinals Women's,SR,F,37.0,0,Elite Two-Way Big,533735,627924,722112,11.0,0.452,0.361,0.911,0.175,0.133,0.5,0.6,0.193,0.545,Laura Ziegler,0.32021621742912454
+Reyna Scott,Louisville Cardinals Women's,SR,G,37.0,2,High-Volume Wing/Guard,484906,570477,656049,8.2,0.453,0.34,0.739,0.192,0.055,0.4,1.2,0.196,0.521,Reyna Scott,0.09663062480318385
+J'Mani Ingram,Louisiana-Monroe Warhawks Women's,SR,G,33.0,1,Bench Guard/Wing,539579,634799,730019,11.3,0.39,0.3,0.65,0.133,0.099,0.1,0.8,0.281,0.439,J'Mani Ingram,0.0001151045854103801
+Nakiyah Mays-Prince,Louisiana-Monroe Warhawks Women's,SR,G,33.0,2,High-Volume Wing/Guard,537453,632297,727142,11.2,0.366,0.305,0.798,0.323,0.052,0.0,2.0,0.227,0.468,Nakiyah Mays-Prince,1.3044250652742222e-05
+Marcavia Shavers,Louisiana-Monroe Warhawks Women's,SR,C,33.0,3,Interior Specialist,535328,629797,724267,11.1,0.498,0.0,0.543,0.069,0.177,0.2,0.6,0.219,0.507,Marcavia Shavers,0.00025152189115089504
+Asjah Inniss,Louisiana-Monroe Warhawks Women's,SR,G,33.0,1,Bench Guard/Wing,473319,556846,640373,7.5,0.328,0.321,0.667,0.184,0.063,0.1,1.5,0.184,0.438,Asjah Inniss,9.241688680626364e-06
+Keshumti Nichols,Louisiana-Monroe Warhawks Women's,SR,F,32.0,3,Interior Specialist,452767,532667,612567,6.3,0.442,0.238,0.617,0.066,0.094,0.4,1.4,0.176,0.476,Keshumti Nichols,0.0006776016262882507
+Flau'jae Johnson,LSU Lady Tigers Women's,SR,G,35.0,2,High-Volume Wing/Guard,590791,695048,799306,14.2,0.465,0.393,0.693,0.148,0.084,0.7,1.3,0.243,0.545,Flau'jae Johnson,0.9581491295945158
+Malea Brown,Longwood Lancers Women's,SR,G,31.0,2,High-Volume Wing/Guard,544489,640575,736661,11.6,0.377,0.352,0.789,0.2,0.071,0.2,2.8,0.199,0.496,Malea Brown,0.0006616890791472687
+Jasmine Peaks,Longwood Lancers Women's,SR,G,30.0,2,High-Volume Wing/Guard,489690,576105,662521,8.5,0.375,0.342,0.769,0.227,0.046,0.0,1.8,0.17,0.486,Jasmine Peaks,1.1933917991327144e-05
+JaMya Robinson,Longwood Lancers Women's,SR,G,31.0,1,Bench Guard/Wing,442526,520619,598712,5.7,0.409,0.333,0.5,0.072,0.098,0.1,1.1,0.153,0.44,JaMya Robinson,3.801214998480025e-05
+Hannah Humphrey,LIU Sharks Women's,SR,G,32.0,1,Bench Guard/Wing,483800,569177,654553,8.1,0.37,0.354,0.774,0.068,0.046,0.2,1.0,0.183,0.516,Hannah Humphrey,4.9635634266979096e-05
+Khylee Pepe,Long Beach State Beach Women's,SR,G,30.0,1,Bench Guard/Wing,503527,592385,681243,9.3,0.37,0.232,0.604,0.168,0.102,0.5,1.8,0.238,0.429,Khylee Pepe,1.5217763943415341e-05
+Jordan Holman,Little Rock Trojans Women's,SR,F,31.0,0,Elite Two-Way Big,660426,776972,893518,18.1,0.407,0.29,0.807,0.124,0.119,0.9,1.6,0.294,0.517,Jordan Holman,0.003061779357636183
+Alaina Payne,Little Rock Trojans Women's,SR,G,31.0,1,Bench Guard/Wing,455136,535455,615773,6.5,0.396,0.192,0.75,0.206,0.094,0.2,1.5,0.143,0.467,Alaina Payne,9.785099862088237e-06
+Molly Heard,Lipscomb Bisons Women's,SR,G,30.0,0,Elite Two-Way Big,599205,704947,810689,14.7,0.443,0.298,0.721,0.207,0.1,0.7,2.2,0.281,0.538,Molly Heard,0.0001667285843377343
+Taylor Bowen,Lipscomb Bisons Women's,SR,F,30.0,3,Interior Specialist,501216,589666,678116,9.1,0.441,0.31,0.624,0.119,0.132,0.1,0.8,0.191,0.519,Taylor Bowen,3.408036565076368e-05
+Aleshia Jones,Lindenwood Lions Women's,SR,G,33.0,0,Elite Two-Way Big,609998,717644,825291,15.3,0.485,0.298,0.848,0.17,0.1,0.4,2.4,0.274,0.569,Aleshia Jones,0.006986920655333126
+Lily Fandre,Lehigh Mountain Hawks Women's,SR,F,31.0,2,High-Volume Wing/Guard,610348,718057,825765,15.3,0.41,0.298,0.795,0.149,0.083,0.1,1.2,0.288,0.533,Lily Fandre,5.905647928856428e-05
+Sierra Linnin,Le Moyne Dolphins Women's,SR,G,33.0,1,Bench Guard/Wing,507313,596839,686365,9.5,0.331,0.317,0.897,0.073,0.078,0.2,0.7,0.201,0.493,Sierra Linnin,7.614248336558825e-05
+R'Mani Taylor,Lamar Lady Cardinals Women's,SR,G,30.0,1,Bench Guard/Wing,479355,563948,648540,7.9,0.393,0.328,0.702,0.245,0.038,0.1,1.2,0.221,0.47,R'Mani Taylor,2.481176277020544e-05
+Ashleigh Connor,La Salle Explorers Women's,SR,G,33.0,2,High-Volume Wing/Guard,619789,729163,838538,15.8,0.44,0.356,0.804,0.27,0.09,0.2,2.0,0.25,0.555,Ashleigh Connor,0.002966120440013032
+Ivona Miljanic,La Salle Explorers Women's,SR,G,33.0,1,Bench Guard/Wing,574182,675508,776835,4.3,0.301,0.304,0.577,0.079,0.052,0.1,0.4,0.116,0.426,Ivona Miljanic,0.0006773549610100487
+Tonie Morgan,Kentucky Wildcats Women's,SR,G,36.0,2,High-Volume Wing/Guard,582271,685024,787778,13.8,0.467,0.344,0.731,0.421,0.049,0.6,0.9,0.228,0.542,Tonie Morgan,0.9094836571366153
+Amelia Hassett,Kentucky Wildcats Women's,SR,F,36.0,4,Efficient Role Player,524505,617065,709624,10.5,0.397,0.361,0.857,0.082,0.089,1.3,0.8,0.153,0.574,Amelia Hassett,0.2582285229105164
+Jordan Obi,Kentucky Wildcats Women's,SR,F,36.0,3,Interior Specialist,498427,586384,674342,9.0,0.518,0.25,0.654,0.073,0.125,0.6,0.5,0.185,0.554,Jordan Obi,0.00739007973896856
+Teonni Key,Kentucky Wildcats Women's,SR,G-F,28.0,3,Interior Specialist,540624,636028,731432,11.4,0.512,0.133,0.698,0.085,0.154,1.3,0.7,0.223,0.551,Teonni Key,0.5530998827369997
+Dionna Gray,Kent State Golden Flashes Women's,SR,G,31.0,1,Bench Guard/Wing,441432,519332,597232,5.6,0.282,0.222,0.867,0.295,0.068,0.3,1.3,0.149,0.426,Dionna Gray,2.5615897987995555e-05
+Keyarah Berry,Kennesaw State Owls Women's,SR,G,28.0,0,Elite Two-Way Big,589263,693251,797239,14.1,0.473,0.256,0.587,0.085,0.098,0.2,2.1,0.259,0.508,Keyarah Berry,4.8311422980841886e-05
+Tess Heal,Kansas State Wildcats Women's,SR,G,34.0,4,Efficient Role Player,528588,621868,715148,10.7,0.476,0.324,0.869,0.126,0.074,0.4,1.1,0.184,0.599,Tess Heal,0.15366338316213837
+Tierra Trotter,Kansas City Roos Women's,SR,G,29.0,2,High-Volume Wing/Guard,516871,608083,699296,10.0,0.378,0.342,0.741,0.245,0.043,0.2,1.4,0.239,0.472,Tierra Trotter,1.278420960350351e-05
+Zaire Harrell,Kansas City Roos Women's,SR,G,30.0,3,Interior Specialist,470202,553178,636155,7.3,0.418,0.25,0.846,0.115,0.106,0.3,1.5,0.145,0.485,Zaire Harrell,1.8350253233297954e-05
+Lilly Meister,Kansas Jayhawks Women's,SR,F,36.0,3,Interior Specialist,492183,579039,665895,8.6,0.5,0.293,0.667,0.081,0.145,0.8,0.7,0.185,0.563,Lilly Meister,0.003436721610932045
+Elle Evans,Kansas Jayhawks Women's,SR,G,36.0,4,Efficient Role Player,485953,571710,657466,8.2,0.452,0.453,0.929,0.107,0.069,0.6,0.7,0.172,0.605,Elle Evans,0.08843214946952492
+Peyton McDaniel,James Madison Dukes Women's,SR,G,35.0,0,Elite Two-Way Big,672707,791420,910133,18.8,0.446,0.345,0.813,0.14,0.122,0.5,1.6,0.264,0.557,Peyton McDaniel,0.26799803832099106
+Ashanti Barnes-Williams,James Madison Dukes Women's,SR,F,35.0,0,Elite Two-Way Big,602525,708853,815181,14.9,0.492,0.207,0.646,0.175,0.167,0.4,1.1,0.263,0.53,Ashanti Barnes-Williams,0.20978443369711985
+Mya Barnes,Jacksonville State Gamecocks Women's,SR,F,31.0,0,Elite Two-Way Big,537693,632580,727467,11.2,0.397,0.339,0.7,0.111,0.135,1.2,1.2,0.193,0.511,Mya Barnes,0.0006421891443641987
+Adriana Jones,Jacksonville State Gamecocks Women's,SR,G,32.0,1,Bench Guard/Wing,508661,598425,688189,9.6,0.37,0.276,0.8,0.111,0.062,0.1,0.8,0.22,0.467,Adriana Jones,4.5769394485735834e-05
+Brooklyn McDaniel,Jacksonville State Gamecocks Women's,SR,F,30.0,3,Interior Specialist,506419,595787,685155,9.4,0.47,0.27,0.651,0.102,0.103,0.1,0.4,0.215,0.529,Brooklyn McDaniel,8.551505366634505e-05
+Eden Sample,Jacksonville State Gamecocks Women's,SR,G,32.0,1,Bench Guard/Wing,464496,546466,628436,7.0,0.369,0.272,0.684,0.051,0.049,0.7,0.8,0.146,0.485,Eden Sample,6.46963027752403e-05
+Maria Sanchez Ponce,Jacksonville State Gamecocks Women's,SR,F,27.0,4,Efficient Role Player,485475,571147,656819,8.2,0.4,0.366,0.658,0.075,0.1,0.1,0.7,0.225,0.509,Maria Sanchez Ponce,5.55114960899815e-05
+Priscilla Williams,Jacksonville Dolphins Women's,SR,G,31.0,0,Elite Two-Way Big,606303,713297,820292,15.1,0.389,0.285,0.781,0.194,0.161,1.3,1.2,0.298,0.52,Priscilla Williams,0.0005070596758658028
+Makiya Miller,Jacksonville Dolphins Women's,SR,G,33.0,1,Bench Guard/Wing,499432,587567,675702,9.0,0.36,0.354,0.764,0.109,0.047,0.2,1.0,0.183,0.491,Makiya Miller,2.2749686644911216e-05
+Jaileyah Cotton,Jackson State Lady Tigers Women's,SR,G,29.0,1,Bench Guard/Wing,500699,589057,677416,9.1,0.321,0.326,0.711,0.256,0.079,0.0,1.4,0.207,0.429,Jaileyah Cotton,1.4359029986183427e-05
+Mikayla Brown,Jackson State Lady Tigers Women's,SR,C,31.0,3,Interior Specialist,462291,543872,625453,6.9,0.386,0.0,0.577,0.095,0.154,0.3,0.5,0.2,0.415,Mikayla Brown,5.8433123124935175e-05
+Derrica McCall,Jackson State Lady Tigers Women's,SR,G,31.0,1,Bench Guard/Wing,448001,527060,606119,6.0,0.332,0.347,0.852,0.097,0.045,0.1,1.2,0.148,0.448,Derrica McCall,9.954126031137175e-06
+Olivia Smith,IU Indianapolis Jaguars Women's,JR,F,31.0,2,High-Volume Wing/Guard,526963,619956,712949,10.6,0.425,0.286,0.754,0.161,0.077,0.2,1.7,0.218,0.524,Olivia Smith,1.9704177250789207e-05
+Sydney Bolden,IU Indianapolis Jaguars Women's,SR,G,31.0,1,Bench Guard/Wing,447453,526415,605378,6.0,0.273,0.212,0.738,0.083,0.053,0.4,1.6,0.188,0.41,Sydney Bolden,1.0161446694618191e-05
+Mackenzie Hare,Iowa State Cyclones Women's,SR,G,32.0,4,Efficient Role Player,447453,526415,605378,6.0,0.405,0.4,0.485,0.045,0.057,0.2,0.8,0.114,0.569,Mackenzie Hare,0.0006817039463109001
+Hannah Stuelke,Iowa Hawkeyes Women's,SR,F,32.0,3,Interior Specialist,576164,677840,779516,13.4,0.536,0.222,0.554,0.177,0.168,0.4,1.2,0.226,0.548,Hannah Stuelke,0.5927720954082084
+Kylie Feuerbach,Iowa Hawkeyes Women's,SR,G,31.0,1,Bench Guard/Wing,432700,509059,585418,5.1,0.307,0.274,0.857,0.145,0.041,0.5,1.2,0.122,0.46,Kylie Feuerbach,0.00461271699215923
+Isabellah Middleton,Iona Gaels Women's,SR,G,31.0,0,Elite Two-Way Big,581554,684181,786808,13.7,0.416,0.316,0.72,0.145,0.118,0.2,2.5,0.258,0.481,Isabellah Middleton,8.50179270991798e-06
+Ella Fajardo,Iona Gaels Women's,SR,G,32.0,1,Bench Guard/Wing,484338,569810,655281,8.2,0.352,0.279,0.831,0.218,0.042,0.1,0.8,0.182,0.465,Ella Fajardo,3.104508535036648e-05
+Kennedy Claybrooks,Indiana State Sycamores Women's,SR,G,30.0,2,High-Volume Wing/Guard,498907,586950,674992,9.0,0.394,0.328,0.783,0.308,0.062,0.3,1.5,0.188,0.49,Kennedy Claybrooks,2.2331074218000317e-05
+Samiyah Briggs,Indiana State Sycamores Women's,SR,G,32.0,1,Bench Guard/Wing,485953,571710,657466,8.2,0.32,0.247,0.738,0.107,0.065,0.3,0.8,0.176,0.429,Samiyah Briggs,6.373694419972256e-05
+Kayla Smith,Indiana State Sycamores Women's,SR,F,32.0,1,Bench Guard/Wing,457026,537678,618330,6.6,0.29,0.269,0.78,0.061,0.066,0.3,0.7,0.166,0.422,Kayla Smith,7.531073346203198e-05
+Da'Naria Washington,Indiana State Sycamores Women's,SR,G,30.0,1,Bench Guard/Wing,451420,531082,610745,6.2,0.445,0.194,0.648,0.186,0.061,0.4,1.3,0.131,0.493,Da'Naria Washington,1.7632778474352404e-05
+Shay Ciezki,Indiana Hoosiers Women's,SR,G,31.0,2,High-Volume Wing/Guard,747552,879473,1011394,22.8,0.526,0.446,0.908,0.216,0.065,0.2,1.5,0.309,0.642,Shay Ciezki,0.11886542297030352
+Jorja Elliott,Incarnate Word Cardinals Women's,SR,G,30.0,0,Elite Two-Way Big,558941,657578,756215,12.4,0.427,0.362,0.706,0.129,0.101,0.7,1.4,0.215,0.559,Jorja Elliott,7.228887494096268e-06
+Jessica Carrothers,UIC Flames Women's,SR,G,28.0,2,High-Volume Wing/Guard,659317,775667,892017,18.0,0.499,0.174,0.901,0.293,0.056,0.2,1.4,0.278,0.54,Jessica Carrothers,0.0020398798010389206
+Sara Zabrecky,UIC Flames Women's,SR,G,32.0,4,Efficient Role Player,579541,681813,784085,4.6,0.366,0.357,0.762,0.045,0.069,0.1,0.5,0.085,0.549,Sara Zabrecky,7.715473907789082e-05
+Addison Martin,Illinois State Redbirds Women's,SR,F,38.0,3,Interior Specialist,559654,658416,757179,12.5,0.491,0.0,0.714,0.162,0.094,0.4,0.5,0.194,0.53,Addison Martin,0.002138160791439615
+Tasia Jordan,Idaho State Bengals Women's,SR,G,30.0,0,Elite Two-Way Big,610541,718284,826026,15.3,0.434,0.214,0.782,0.103,0.114,0.6,1.7,0.328,0.483,Tasia Jordan,5.112345278958313e-05
+Kacey Spink,Idaho State Bengals Women's,SR,G,30.0,0,Elite Two-Way Big,508155,597829,687504,9.5,0.407,0.342,0.761,0.269,0.13,0.2,3.3,0.189,0.482,Kacey Spink,0.001932528432574037
+Kyra Gardner,Idaho Vandals Women's,SR,G,35.0,0,Elite Two-Way Big,568961,669366,769771,13.0,0.401,0.322,0.687,0.119,0.114,1.0,2.5,0.221,0.499,Kyra Gardner,0.023550370964261106
+Zennia Thomas,Howard Lady Bison Women's,SR,F,34.0,0,Elite Two-Way Big,607730,714976,822223,15.2,0.428,0.231,0.711,0.13,0.138,1.0,0.9,0.266,0.507,Zennia Thomas,0.0001407044696349738
+TK Pitts,Houston Cougars Women's,SR,G,28.0,3,Interior Specialist,507576,597148,686720,9.5,0.382,0.222,0.656,0.118,0.131,0.4,2.3,0.198,0.455,TK Pitts,0.0006822004194863169
+Briana Peguero,Houston Cougars Women's,SR,G,29.0,1,Bench Guard/Wing,494732,582037,669343,8.8,0.344,0.327,0.757,0.198,0.04,0.1,1.6,0.217,0.46,Briana Peguero,2.5916412293861626e-05
+Amirah Abdur-Rahim,Houston Cougars Women's,SR,F,29.0,3,Interior Specialist,488777,575032,661287,8.4,0.439,0.255,0.593,0.11,0.106,1.2,1.1,0.205,0.481,Amirah Abdur-Rahim,0.0020640118628817337
+Meg Cahalan,Holy Cross Crusaders Women's,SR,F,32.0,2,High-Volume Wing/Guard,605689,712575,819461,15.1,0.469,0.25,0.86,0.193,0.079,0.7,0.6,0.287,0.537,Meg Cahalan,0.0015723801072585304
+Kaitlyn Flanagan,Holy Cross Crusaders Women's,SR,G,33.0,2,High-Volume Wing/Guard,501532,590037,678543,9.2,0.442,0.31,0.767,0.295,0.052,0.5,1.0,0.189,0.514,Kaitlyn Flanagan,9.776693809994946e-05
+Simone Foreman,Holy Cross Crusaders Women's,SR,G,31.0,3,Interior Specialist,489986,576455,662923,8.5,0.397,0.231,0.673,0.078,0.149,0.1,0.9,0.222,0.443,Simone Foreman,2.1877014261495994e-05
+Mary-Elizabeth Donnelly,Holy Cross Crusaders Women's,SR,G,33.0,4,Efficient Role Player,477481,561742,646003,7.8,0.423,0.353,0.867,0.125,0.134,0.8,0.6,0.157,0.558,Mary-Elizabeth Donnelly,6.91153826303332e-06
+Chloe Sterling,Hofstra Pride Women's,SR,G,27.0,1,Bench Guard/Wing,520789,612692,704596,10.3,0.336,0.224,0.805,0.25,0.065,0.1,1.2,0.25,0.414,Chloe Sterling,1.5401861644752605e-05
+Alarice Gooden,Hofstra Pride Women's,SR,G,33.0,1,Bench Guard/Wing,484779,570328,655877,8.2,0.344,0.256,0.74,0.171,0.066,0.2,0.9,0.255,0.411,Alarice Gooden,3.168627607020441e-05
+Sandra Magolico,Hofstra Pride Women's,SR,F,31.0,3,Interior Specialist,478320,562730,647139,7.8,0.429,0.0,0.462,0.077,0.164,1.0,1.3,0.211,0.437,Sandra Magolico,2.046534785936382e-05
+Aaliyah Collins,High Point Panthers Women's,SR,G,31.0,2,High-Volume Wing/Guard,602839,709222,815605,14.9,0.495,0.308,0.673,0.333,0.045,0.8,2.4,0.292,0.544,Aaliyah Collins,0.0015969760667929008
+Nevaeh Zavala,High Point Panthers Women's,SR,F,31.0,4,Efficient Role Player,496675,584323,671971,8.9,0.502,0.326,0.718,0.082,0.085,0.4,0.8,0.151,0.584,Nevaeh Zavala,3.610089878574306e-05
+Anna Hager,High Point Panthers Women's,SR,G,33.0,1,Bench Guard/Wing,469683,552568,635453,7.3,0.365,0.346,0.706,0.093,0.114,0.6,0.9,0.179,0.484,Anna Hager,1.535871281772233e-05
+Saniyah Neverson,Hawaii Rainbow Wāhine Women's,SR,F,33.0,0,Elite Two-Way Big,513633,604274,694915,9.8,0.494,0.371,0.788,0.113,0.117,1.2,1.0,0.203,0.571,Saniyah Neverson,0.006354508096067577
+Imani Perez,Hawaii Rainbow Wāhine Women's,SR,F,32.0,4,Efficient Role Player,480036,564748,649460,7.9,0.509,0.476,0.849,0.122,0.119,1.6,0.7,0.132,0.665,Imani Perez,0.05226705822157251
+Saniyah Glenn-Bello,Harvard Crimson Women's,SR,G,29.0,2,High-Volume Wing/Guard,535548,630056,724564,11.1,0.364,0.317,0.792,0.153,0.078,1.3,1.7,0.248,0.456,Saniyah Glenn-Bello,0.000122745492177929
+Katie Krupa,Harvard Crimson Women's,SR,F,32.0,1,Bench Guard/Wing,475740,559695,643649,7.7,0.33,0.235,0.797,0.19,0.065,1.0,0.6,0.184,0.419,Katie Krupa,8.080371167473433e-05
+Jenna Guyer,Green Bay Phoenix Women's,SR,F-C,29.0,0,Elite Two-Way Big,599636,705455,811273,14.7,0.461,0.394,0.803,0.124,0.118,0.8,1.1,0.252,0.567,Jenna Guyer,0.004409644408307728
+Maddy Skorupski,Green Bay Phoenix Women's,SR,G,34.0,2,High-Volume Wing/Guard,537859,632775,727692,11.2,0.456,0.377,0.8,0.276,0.103,0.3,2.1,0.203,0.538,Maddy Skorupski,0.005097056425720605
+Carley Duffney,Green Bay Phoenix Women's,SR,F,34.0,4,Efficient Role Player,481649,566645,651642,8.0,0.46,0.3,0.813,0.159,0.081,0.1,0.7,0.189,0.53,Carley Duffney,5.470408335044581e-05
+Kamy Peppler,Green Bay Phoenix Women's,SR,G,34.0,1,Bench Guard/Wing,456964,537604,618245,6.6,0.373,0.241,0.771,0.274,0.072,0.0,1.1,0.162,0.461,Kamy Peppler,3.474522305357523e-05
+Anisa Jeffries,Grand Canyon Antelopes Women's,SR,F,28.0,3,Interior Specialist,487185,573158,659132,8.3,0.456,0.22,0.878,0.134,0.122,0.4,1.7,0.194,0.521,Anisa Jeffries,0.001242411822240389
+Ale'Jah Douglas,Grand Canyon Antelopes Women's,SR,G,32.0,1,Bench Guard/Wing,447984,527040,606096,6.0,0.346,0.289,0.788,0.147,0.043,0.2,0.7,0.179,0.467,Ale'Jah Douglas,3.3001156053246095e-05
+Shaniah Nunn,Grambling Lady Tigers Women's,SR,G,32.0,3,Interior Specialist,557360,655718,754075,12.3,0.444,0.05,0.661,0.076,0.147,0.6,1.8,0.243,0.479,Shaniah Nunn,3.416596905255309e-05
+Zaria Johnson,Grambling Lady Tigers Women's,SR,G,31.0,1,Bench Guard/Wing,482204,567298,652393,8.0,0.337,0.205,0.713,0.078,0.097,0.5,1.3,0.22,0.416,Zaria Johnson,1.175288056056653e-05
+Douthsine Prien,Grambling Lady Tigers Women's,SR,G,31.0,1,Bench Guard/Wing,431066,507137,583207,5.0,0.379,0.222,0.64,0.258,0.065,0.0,1.4,0.145,0.477,Douthsine Prien,1.9006393311955467e-05
+Ines Bettencourt,Gonzaga Bulldogs Women's,SR,G,33.0,1,Bench Guard/Wing,453122,533085,613047,6.3,0.344,0.318,0.711,0.201,0.073,0.3,1.5,0.174,0.432,Ines Bettencourt,1.501558034400587e-05
+Catherine Alben,Georgia Tech Yellow Jackets Women's,SR,G,33.0,1,Bench Guard/Wing,494714,582016,669319,8.8,0.358,0.226,0.736,0.199,0.066,0.1,1.0,0.27,0.438,Catherine Alben,0.0007062921482798119
+Brianna Turnage,Georgia Tech Yellow Jackets Women's,SR,G,33.0,3,Interior Specialist,437691,514930,592170,5.4,0.54,0.0,0.544,0.19,0.182,1.4,1.5,0.121,0.545,Brianna Turnage,0.0764813145842017
+Kaleigh Addie,Georgia State Panthers Women's,SR,G,28.0,2,High-Volume Wing/Guard,522496,614701,706907,10.4,0.357,0.318,0.756,0.07,0.044,0.1,1.2,0.209,0.496,Kaleigh Addie,1.3529219640568154e-05
+Cheyenne Holloman,Georgia State Panthers Women's,SR,G,31.0,4,Efficient Role Player,489986,576455,662923,8.5,0.443,0.296,0.667,0.106,0.079,0.3,1.9,0.173,0.507,Cheyenne Holloman,2.2748954944146833e-05
+Destiny Garrett,Georgia Southern Eagles Women's,SR,G,31.0,2,High-Volume Wing/Guard,599955,705829,811703,14.7,0.447,0.351,0.702,0.222,0.072,0.3,1.4,0.233,0.534,Destiny Garrett,4.55459706753307e-05
+Kishyah Anderson,Georgia Southern Eagles Women's,SR,G,31.0,4,Efficient Role Player,594769,699729,804688,14.5,0.506,0.467,0.762,0.087,0.087,0.5,1.3,0.234,0.577,Kishyah Anderson,0.003907853407081346
+McKenna Eddings,Georgia Southern Eagles Women's,SR,F,31.0,2,High-Volume Wing/Guard,575252,676767,778282,13.4,0.407,0.328,0.686,0.133,0.065,0.7,1.4,0.231,0.512,McKenna Eddings,2.6642284332707166e-05
+Laila Jewett,Georgetown Hoyas Women's,SR,G,31.0,1,Bench Guard/Wing,491657,578420,665183,8.6,0.349,0.322,0.878,0.21,0.036,0.4,0.8,0.191,0.488,Laila Jewett,6.234735270851342e-05
+Brianna Scott,Georgetown Hoyas Women's,SR,F,29.0,3,Interior Specialist,487588,573633,659678,8.3,0.444,0.238,0.882,0.113,0.123,0.8,0.8,0.211,0.528,Brianna Scott,0.003193979497572172
+Maliyah Johnson,George Mason Patriots Women's,SR,F,32.0,3,Interior Specialist,461826,543325,624823,6.8,0.403,0.264,0.66,0.097,0.117,0.3,0.4,0.197,0.464,Maliyah Johnson,0.0007316289921151936
+Jaelyn Acker,Gardner-Webb Runnin' Bulldogs Women's,SR,G,31.0,1,Bench Guard/Wing,486092,571873,657654,8.3,0.322,0.315,0.761,0.095,0.055,0.2,1.5,0.169,0.48,Jaelyn Acker,7.557517291390816e-06
+Emilia Long,Fresno State Bulldogs Women's,SR,G,33.0,2,High-Volume Wing/Guard,578636,680748,782860,13.5,0.41,0.327,0.842,0.267,0.079,0.2,2.3,0.245,0.494,Emilia Long,3.207520507024017e-05
+Jaisa Gamble,Fresno State Bulldogs Women's,SR,G-F,33.0,1,Bench Guard/Wing,479564,564193,648822,7.9,0.399,0.313,0.6,0.132,0.076,0.5,2.1,0.177,0.423,Jaisa Gamble,3.030168318243497e-05
+Ornella Niankan,Fordham Rams Women's,SR,F,30.0,3,Interior Specialist,443492,521756,600019,5.8,0.411,0.25,0.696,0.122,0.103,0.3,0.7,0.17,0.456,Ornella Niankan,0.00011192509553314176
+Tia Morgan,Fordham Rams Women's,SR,G,27.0,1,Bench Guard/Wing,442425,520500,598575,5.7,0.399,0.385,0.826,0.129,0.056,0.2,0.7,0.138,0.517,Tia Morgan,9.016569871614823e-05
+Sydney Bowles,Florida State Seminoles Women's,SR,G,28.0,1,Bench Guard/Wing,487800,573883,659965,8.4,0.358,0.306,0.738,0.15,0.053,0.2,0.6,0.228,0.486,Sydney Bowles,9.879551193629368e-05
+Allie Kubek,Florida State Seminoles Women's,SR,F,28.0,1,Bench Guard/Wing,473059,556540,640021,7.5,0.396,0.263,0.638,0.083,0.091,0.8,0.5,0.17,0.478,Allie Kubek,0.001288651158356735
+Amaya Bonner,Florida State Seminoles Women's,SR,G,30.0,1,Bench Guard/Wing,440102,517767,595433,5.6,0.355,0.273,0.74,0.141,0.059,0.5,0.8,0.157,0.44,Amaya Bonner,0.0006709185186526438
+Parris Atkins,Florida International Panthers Women's,SR,G,30.0,2,High-Volume Wing/Guard,641149,754293,867437,17.0,0.376,0.333,0.773,0.207,0.074,0.2,3.0,0.31,0.49,Parris Atkins,0.0010163027140817438
+Anasia Staton,Florida Gulf Coast Eagles Women's,SR,F,32.0,4,Efficient Role Player,523899,616352,708804,10.4,0.449,0.368,0.788,0.074,0.126,0.2,0.6,0.241,0.559,Anasia Staton,0.0008895625982612895
+Jess Moors,Florida Atlantic Owls Women's,SR,F,32.0,1,Bench Guard/Wing,474131,557801,641472,7.6,0.369,0.247,0.865,0.218,0.068,0.5,1.6,0.166,0.48,Jess Moors,1.6961864833703274e-05
+Tahnyjia Purifoy,Florida A&M Lady Rattlers Women's,SR,G,29.0,2,High-Volume Wing/Guard,526496,619407,712318,10.6,0.356,0.24,0.827,0.301,0.042,0.1,2.0,0.212,0.513,Tahnyjia Purifoy,3.0142223163891528e-05
+Alexia Dizeko,Florida Gators Women's,SR,F,33.0,1,Bench Guard/Wing,431545,507700,583855,5.1,0.434,0.303,0.833,0.115,0.06,0.1,0.6,0.123,0.52,Alexia Dizeko,0.002012198672562924
+Madlena Gerke,FDU Knights Women's,SR,G,35.0,2,High-Volume Wing/Guard,534736,629101,723467,11.1,0.353,0.34,0.768,0.141,0.076,0.4,1.4,0.24,0.494,Madlena Gerke,0.0019026344307101915
+Janelle Brown,Fairfield Stags Women's,SR,G,27.0,2,High-Volume Wing/Guard,449341,528637,607932,6.1,0.417,0.328,0.639,0.246,0.079,0.1,1.7,0.186,0.512,Janelle Brown,0.0018720224768448183
+Laila Anderson,Elon Phoenix Women's,SR,G,29.0,1,Bench Guard/Wing,485211,570836,656462,8.2,0.376,0.293,0.734,0.159,0.057,0.2,1.1,0.215,0.479,Laila Anderson,1.3852615060035186e-05
+Ella Gallatin,Eastern Washington Eagles Women's,SR,G,33.0,2,High-Volume Wing/Guard,618155,727241,836327,15.8,0.417,0.321,0.748,0.224,0.068,0.5,1.0,0.252,0.511,Ella Gallatin,0.0013266475610812921
+Sisi Eleko,Eastern Michigan Eagles Women's,SR,F,28.0,0,Elite Two-Way Big,650891,765754,880617,17.6,0.485,0.237,0.786,0.122,0.166,0.2,0.8,0.289,0.54,Sisi Eleko,0.0008353393004979693
+Brooklyn Thrash,Eastern Michigan Eagles Women's,SR,G-F,29.0,1,Bench Guard/Wing,479869,564552,649235,7.9,0.36,0.24,0.746,0.052,0.082,0.6,1.0,0.149,0.458,Brooklyn Thrash,6.320787601763658e-05
+Ainhoa Cea,Eastern Michigan Eagles Women's,SR,G,29.0,2,High-Volume Wing/Guard,460372,541615,622857,6.8,0.487,0.354,0.758,0.289,0.069,0.1,2.2,0.128,0.564,Ainhoa Cea,2.7086390879807242e-05
+Joseana Vaz,Eastern Kentucky Colonels Women's,SR,G-F,32.0,0,Elite Two-Way Big,589502,693532,797562,14.2,0.409,0.317,0.694,0.114,0.138,0.6,1.6,0.316,0.497,Joseana Vaz,1.8590362198597476e-05
+Althea Kara Angeles,Eastern Kentucky Colonels Women's,SR,G,34.0,2,High-Volume Wing/Guard,506044,595346,684648,9.4,0.447,0.328,0.8,0.229,0.07,0.4,2.2,0.159,0.548,Althea Kara Angeles,0.0013150454881708656
+Charita Lewis,Eastern Illinois Panthers Women's,SR,G,28.0,1,Bench Guard/Wing,490881,577507,664133,8.5,0.328,0.293,0.845,0.126,0.049,0.1,1.1,0.202,0.45,Charita Lewis,1.6761087333280545e-05
+Ahmya Boyce,East Texas A&M Lions Women's,SR,G,30.0,1,Bench Guard/Wing,471344,554523,637701,7.4,0.257,0.205,0.701,0.198,0.05,0.3,1.8,0.217,0.345,Ahmya Boyce,2.764811239257428e-05
+Anala Nelson,ETSU Buccaneers Women's,SR,G,31.0,1,Bench Guard/Wing,534865,629253,723641,11.1,0.33,0.214,0.771,0.233,0.07,0.0,1.2,0.271,0.447,Anala Nelson,2.3278026830053356e-05
+Kennedy Fauntleroy,East Carolina Pirates Women's,SR,G,32.0,2,High-Volume Wing/Guard,581715,684371,787026,13.7,0.393,0.308,0.725,0.324,0.056,0.8,2.7,0.245,0.471,Kennedy Fauntleroy,0.0007704461692519815
+Anzhané Hutton,East Carolina Pirates Women's,SR,F,31.0,0,Elite Two-Way Big,535431,629918,724406,11.1,0.417,0.34,0.725,0.11,0.128,0.5,1.2,0.214,0.499,Anzhané Hutton,8.825673164064773e-06
+Keanna Rembert,East Carolina Pirates Women's,SR,F,31.0,4,Efficient Role Player,520768,612668,704568,10.3,0.431,0.38,0.803,0.133,0.092,0.5,1.0,0.219,0.509,Keanna Rembert,2.532517422215743e-05
+Jayla Hearp,East Carolina Pirates Women's,SR,G,32.0,4,Efficient Role Player,503780,592683,681585,9.3,0.413,0.33,0.73,0.104,0.071,0.4,1.3,0.197,0.526,Jayla Hearp,7.049196904842342e-06
+Savannah Brooks,East Carolina Pirates Women's,SR,G-F,31.0,2,High-Volume Wing/Guard,494443,581698,668953,8.7,0.366,0.299,0.809,0.15,0.076,0.6,1.7,0.166,0.499,Savannah Brooks,3.568268412754869e-06
+Taina Mair,Duke Blue Devils Women's,SR,G,36.0,2,High-Volume Wing/Guard,544457,640538,736619,11.6,0.411,0.341,0.87,0.292,0.093,0.1,2.5,0.193,0.508,Taina Mair,0.2457396633417739
+Ashlon Jackson,Duke Blue Devils Women's,SR,G,36.0,2,High-Volume Wing/Guard,537630,632506,727381,11.2,0.343,0.307,0.813,0.231,0.052,0.4,1.4,0.192,0.474,Ashlon Jackson,0.09477545040668063
+Amaris Baker,Drexel Dragons Women's,SR,G,32.0,2,High-Volume Wing/Guard,672316,790960,909604,18.8,0.408,0.307,0.786,0.107,0.066,0.0,0.8,0.297,0.492,Amaris Baker,0.0021200729067578426
+Grace O'Neill,Drexel Dragons Women's,SR,G,32.0,1,Bench Guard/Wing,568559,668893,769227,4.0,0.373,0.246,0.893,0.239,0.091,0.0,1.2,0.099,0.484,Grace O'Neill,1.2920251532406675e-05
+Ava Hawthorne,Drake Bulldogs Women's,SR,G,32.0,1,Bench Guard/Wing,452767,532667,612567,6.3,0.363,0.28,0.778,0.232,0.07,0.2,1.0,0.157,0.483,Ava Hawthorne,2.8082264802245486e-05
+Jasmine Edwards,Detroit Mercy Titans Women's,SR,G-F,31.0,4,Efficient Role Player,549028,645915,742802,11.9,0.531,1.0,0.57,0.087,0.141,0.4,1.1,0.195,0.546,Jasmine Edwards,0.0007257389884193648
+Nisea Burrell,Detroit Mercy Titans Women's,SR,G,28.0,1,Bench Guard/Wing,467551,550060,632569,7.2,0.379,0.217,0.67,0.137,0.067,0.0,1.0,0.165,0.479,Nisea Burrell,4.5552270479238515e-05
+Myonna Hooper,Detroit Mercy Titans Women's,SR,G,31.0,1,Bench Guard/Wing,454037,534162,614286,6.4,0.327,0.258,0.76,0.144,0.061,0.2,0.6,0.199,0.427,Myonna Hooper,7.330495585056604e-05
+Nykesha Sanders,Delaware State Hornets Women's,SR,G,30.0,1,Bench Guard/Wing,565437,665219,765002,3.8,0.323,0.308,0.471,0.184,0.04,0.0,1.2,0.119,0.404,Nykesha Sanders,1.6732240870295465e-05
+Ella Wanzer,Delaware Fightin' Blue Hens Women's,SR,G,28.0,1,Bench Guard/Wing,492115,578958,665802,8.6,0.356,0.341,0.76,0.063,0.045,0.5,0.9,0.159,0.509,Ella Wanzer,8.487955367731711e-05
+Nayo Lear,Dayton Flyers Women's,SR,G,30.0,2,High-Volume Wing/Guard,587906,691654,795402,14.1,0.464,0.273,0.647,0.211,0.076,0.1,1.3,0.285,0.521,Nayo Lear,0.00012137163005266376
+Nicole Stephens,Dayton Flyers Women's,SR,G,29.0,4,Efficient Role Player,532527,626503,720478,10.9,0.481,0.366,0.803,0.216,0.058,0.0,0.9,0.173,0.578,Nicole Stephens,6.808236005429529e-05
+Charlise Dunn,Davidson Wildcats Women's,SR,G,33.0,0,Elite Two-Way Big,609455,717005,824556,15.3,0.408,0.309,0.835,0.131,0.135,0.7,1.8,0.265,0.517,Charlise Dunn,0.08058168021260569
+Kennedy Townsend,Creighton Bluejays Women's,SR,G,31.0,2,High-Volume Wing/Guard,545623,641909,738196,11.7,0.391,0.303,0.765,0.132,0.062,0.4,1.2,0.192,0.497,Kennedy Townsend,8.672843507412877e-06
+Grace Boffeli,Creighton Bluejays Women's,SR,F,31.0,3,Interior Specialist,502819,591552,680285,9.2,0.528,0.2,0.76,0.157,0.206,0.9,0.6,0.208,0.573,Grace Boffeli,0.00859249510976832
+Emily Pape,Cornell Big Red Women's,SR,F,27.0,2,High-Volume Wing/Guard,518851,610413,701975,10.1,0.346,0.309,0.727,0.151,0.107,0.2,1.2,0.241,0.459,Emily Pape,3.3731978268730382e-06
+Paris McBride,Coppin State Eagles Women's,SR,G,33.0,1,Bench Guard/Wing,497858,585716,673573,8.9,0.253,0.279,0.819,0.238,0.057,0.3,1.5,0.192,0.419,Paris McBride,3.259410836067722e-05
+Sydney Burris,Coppin State Eagles Women's,SR,F,33.0,3,Interior Specialist,458803,539768,620733,6.7,0.447,0.0,0.703,0.082,0.143,0.9,0.9,0.175,0.493,Sydney Burris,4.4913687534873186e-05
+Azzi Fudd,UConn Huskies Women's,SR,G,39.0,2,High-Volume Wing/Guard,645184,759041,872897,17.3,0.481,0.447,0.955,0.176,0.052,0.5,2.5,0.258,0.606,Azzi Fudd,0.9108123394206902
+Perri Page,Columbia Lions Women's,SR,G-F,33.0,0,Elite Two-Way Big,596444,701699,806954,14.5,0.54,0.25,0.69,0.157,0.123,0.3,2.5,0.235,0.58,Perri Page,0.6105934556179742
+Susie Rafiu,Columbia Lions Women's,SR,F,31.0,3,Interior Specialist,501142,589579,678016,9.1,0.515,0.324,0.646,0.147,0.136,0.5,1.3,0.194,0.553,Susie Rafiu,2.4965115019873226e-05
+Lexus Bargesser,Colorado State Rams Women's,SR,G,33.0,0,Elite Two-Way Big,608369,715728,823087,15.2,0.457,0.407,0.824,0.214,0.105,0.6,1.3,0.277,0.551,Lexus Bargesser,0.15742123884480522
+Madelyn Bragg,Colorado State Rams Women's,SR,C,35.0,3,Interior Specialist,484600,570117,655635,8.2,0.527,0.0,0.818,0.041,0.094,0.9,0.5,0.18,0.569,Madelyn Bragg,0.00021788795951831568
+Hannah Ronsiek,Colorado State Rams Women's,SR,G,35.0,1,Bench Guard/Wing,476737,560867,644997,7.7,0.35,0.316,0.818,0.037,0.092,0.7,1.5,0.147,0.49,Hannah Ronsiek,0.0012822101165761394
+Jade Masogayo,Colorado Buffaloes Women's,SR,G,33.0,3,Interior Specialist,538516,633548,728580,11.3,0.489,0.0,0.757,0.151,0.108,0.8,1.0,0.232,0.549,Jade Masogayo,0.012770761992776124
+Anaelle Dutat,Colorado Buffaloes Women's,SR,F,34.0,3,Interior Specialist,491788,578574,665360,8.6,0.514,0.1,0.744,0.085,0.152,0.3,1.7,0.155,0.559,Anaelle Dutat,0.15492882120540927
+Sophia Tougas,College of Charleston Cougars Women's,SR,G,32.0,1,Bench Guard/Wing,498366,586313,674261,9.0,0.346,0.345,0.688,0.03,0.055,0.3,1.0,0.183,0.481,Sophia Tougas,3.476442480641178e-05
+Abbey Ferguson,Colgate Raiders Women's,SR,G-F,31.0,4,Efficient Role Player,572121,673083,774046,4.2,0.451,0.364,0.846,0.052,0.073,0.8,0.7,0.077,0.541,Abbey Ferguson,0.00013067524406871017
+Kristin Williams,Coastal Carolina Chanticleers Women's,SR,G,32.0,2,High-Volume Wing/Guard,570622,671320,772018,13.1,0.381,0.367,0.712,0.193,0.055,0.1,1.8,0.206,0.514,Kristin Williams,4.217218642527551e-05
+Tracey Hueston,Coastal Carolina Chanticleers Women's,SR,F,32.0,3,Interior Specialist,552951,650531,748110,12.1,0.504,0.269,0.682,0.064,0.163,1.1,0.8,0.286,0.565,Tracey Hueston,0.0007192967871118577
+Izabella Zingaro,Cleveland State Vikings Women's,SR,F,36.0,0,Elite Two-Way Big,639542,752402,865263,16.9,0.608,0.222,0.8,0.101,0.168,0.7,0.6,0.295,0.668,Izabella Zingaro,0.008300259079331768
+Colbi Maples,Cleveland State Vikings Women's,SR,G,34.0,2,High-Volume Wing/Guard,617755,726770,835786,15.7,0.376,0.308,0.753,0.165,0.03,0.0,1.4,0.289,0.492,Colbi Maples,0.0006932841811142988
+Jada Leonard,Cleveland State Vikings Women's,SR,G,34.0,2,High-Volume Wing/Guard,551300,648588,745876,12.0,0.37,0.28,0.817,0.184,0.04,0.0,2.9,0.229,0.484,Jada Leonard,0.00012145039311252024
+Mia Moore,Clemson Tigers Women's,SR,G,32.0,2,High-Volume Wing/Guard,575055,676535,778016,13.3,0.458,0.37,0.669,0.317,0.1,0.3,1.3,0.248,0.539,Mia Moore,0.24069580429088663
+Taylor Johnson-Matthews,Clemson Tigers Women's,SR,G,33.0,2,High-Volume Wing/Guard,507839,597458,687076,9.5,0.408,0.39,0.776,0.064,0.071,0.1,0.9,0.257,0.507,Taylor Johnson-Matthews,0.0013032493990586182
+Rachael Rose,Clemson Tigers Women's,SR,G,32.0,4,Efficient Role Player,491883,578686,665489,8.6,0.45,0.325,0.741,0.178,0.053,0.1,1.0,0.169,0.556,Rachael Rose,0.003212221104559184
+Raven Thompson,Clemson Tigers Women's,SR,F,33.0,4,Efficient Role Player,472279,555623,638966,7.5,0.473,0.315,0.875,0.117,0.103,0.1,0.8,0.164,0.549,Raven Thompson,0.002583074641249007
+Mya Perry,Cincinnati Bearcats Women's,SR,G,31.0,2,High-Volume Wing/Guard,655739,771458,887176,17.8,0.395,0.357,0.77,0.114,0.04,0.4,1.5,0.271,0.518,Mya Perry,0.003433168505259781
+Princess Anderson,Charlotte 49ers Women's,SR,G,31.0,2,High-Volume Wing/Guard,628902,739884,850867,16.4,0.367,0.297,0.73,0.101,0.042,0.2,1.8,0.357,0.456,Princess Anderson,0.0026747606434755268
+Tanajah Hayes,Charlotte 49ers Women's,SR,G,32.0,2,High-Volume Wing/Guard,534283,628568,722853,11.0,0.345,0.311,0.848,0.363,0.049,0.2,2.3,0.229,0.445,Tanajah Hayes,1.8824037470494275e-05
+Asianae Nicholson,Charlotte 49ers Women's,SR,F,32.0,3,Interior Specialist,448515,527665,606815,6.1,0.397,0.0,0.615,0.038,0.177,0.2,0.9,0.146,0.424,Asianae Nicholson,3.868379552025811e-05
+Imani Smith,Charlotte 49ers Women's,SR,G,32.0,1,Bench Guard/Wing,557570,655965,754360,3.4,0.282,0.24,0.792,0.108,0.07,0.5,1.0,0.108,0.429,Imani Smith,2.3680116710008266e-05
+Caelan Ellis,Charleston Southern Buccaneers Women's,SR,G,30.0,2,High-Volume Wing/Guard,564242,663814,763387,12.7,0.357,0.35,0.755,0.11,0.03,0.0,0.7,0.239,0.48,Caelan Ellis,7.944812522925862e-05
+Demetria Prewitt,Central Michigan Chippewas Women's,SR,F,30.0,3,Interior Specialist,473631,557213,640795,7.5,0.505,0.0,0.6,0.099,0.098,1.0,0.7,0.181,0.522,Demetria Prewitt,0.0007726214245016161
+Taylor Anderson,Central Michigan Chippewas Women's,SR,G,30.0,3,Interior Specialist,448586,527748,606910,6.1,0.316,0.314,0.708,0.185,0.201,0.4,1.4,0.166,0.427,Taylor Anderson,0.0006494088458482721
+Lucia Noin,Central Connecticut Blue Devils Women's,SR,F,29.0,2,High-Volume Wing/Guard,577522,679438,781354,13.5,0.409,0.292,0.81,0.242,0.093,0.3,1.9,0.266,0.469,Lucia Noin,4.253699874313673e-05
+Cierra Pearson,Central Connecticut Blue Devils Women's,SR,G,28.0,1,Bench Guard/Wing,561867,661021,760174,3.6,0.231,0.111,0.615,0.138,0.083,0.5,2.0,0.131,0.289,Cierra Pearson,2.090193877038273e-05
+Shae Littleford,Central Arkansas Sugar Bears Women's,SR,G,32.0,2,High-Volume Wing/Guard,591730,696153,800576,14.3,0.378,0.299,0.803,0.143,0.062,0.1,1.5,0.265,0.501,Shae Littleford,1.3697507157428584e-05
+Bree Stephens,Central Arkansas Sugar Bears Women's,SR,F,32.0,0,Elite Two-Way Big,523899,616352,708804,10.4,0.429,0.315,0.732,0.185,0.135,1.6,1.6,0.205,0.51,Bree Stephens,0.0019986801228197445
+Franka Wittenberg,Canisius Golden Griffins Women's,SR,G,29.0,3,Interior Specialist,501296,589760,678224,9.1,0.39,0.212,0.771,0.238,0.116,0.4,1.0,0.236,0.482,Franka Wittenberg,4.6254409066874003e-05
+Gianni Boone,Campbell Fighting Camels Women's,SR,G,32.0,3,Interior Specialist,507033,596510,685986,9.5,0.484,0.154,0.55,0.13,0.083,0.7,0.8,0.197,0.502,Gianni Boone,0.0001383933202990201
+Filipa Barros,California Baptist Lancers Women's,SR,G,34.0,0,Elite Two-Way Big,534250,628530,722809,11.0,0.4,0.407,0.795,0.269,0.154,0.3,2.7,0.184,0.541,Filipa Barros,0.08959451809697262
+Emma Johansson,California Baptist Lancers Women's,SR,F-C,34.0,0,Elite Two-Way Big,522423,614615,706807,10.4,0.447,0.261,0.725,0.148,0.123,2.7,0.9,0.218,0.516,Emma Johansson,0.0020870274668742307
+Sakima Walker,California Golden Bears Women's,SR,C,36.0,3,Interior Specialist,560609,659540,758471,12.5,0.567,0.0,0.593,0.12,0.144,1.5,0.4,0.249,0.573,Sakima Walker,0.0043032022388543945
+Mariona Cos-Morales,Cal State Northridge Matadors Women's,SR,G-F,30.0,1,Bench Guard/Wing,574070,675377,776683,4.3,0.366,0.196,0.389,0.116,0.088,0.8,1.1,0.152,0.396,Mariona Cos-Morales,2.97607870230027e-05
+Kya Pearson,Cal State Fullerton Titans Women's,SR,G,32.0,2,High-Volume Wing/Guard,483262,568544,653825,8.1,0.374,0.284,0.821,0.23,0.057,0.4,2.6,0.189,0.476,Kya Pearson,4.904326171803679e-05
+Marley Langi,Cal State Bakersfield Roadrunners Women's,SR,G-F,30.0,1,Bench Guard/Wing,530234,623805,717376,10.8,0.319,0.308,0.803,0.073,0.069,0.2,0.8,0.266,0.439,Marley Langi,0.00016076498996370547
+Maria Dias,Cal State Bakersfield Roadrunners Women's,SR,G,30.0,1,Bench Guard/Wing,509313,599192,689070,9.6,0.333,0.294,0.722,0.084,0.051,0.1,0.7,0.246,0.411,Maria Dias,5.622490609862499e-05
+Mimi Rubino,Bryant Bulldogs Women's,SR,G,30.0,1,Bench Guard/Wing,533151,627237,721322,11.0,0.345,0.354,0.673,0.131,0.072,0.1,1.0,0.225,0.451,Mimi Rubino,1.9820044184899605e-05
+Maranda Nyborg,Bryant Bulldogs Women's,SR,F,30.0,3,Interior Specialist,515690,606694,697698,10.0,0.5,0.0,0.732,0.147,0.084,0.9,0.6,0.209,0.525,Maranda Nyborg,0.00018587903091536392
+Alyssa Moreland,Brown Bears Women's,SR,F,27.0,3,Interior Specialist,541529,637093,732657,11.4,0.506,0.0,0.427,0.206,0.202,1.0,2.2,0.257,0.497,Alyssa Moreland,0.010503128182189188
+Elizabeth Nelson,Brown Bears Women's,SR,F,27.0,1,Bench Guard/Wing,440541,518284,596027,5.6,0.317,0.327,0.815,0.062,0.041,0.9,0.6,0.126,0.478,Elizabeth Nelson,0.00010540835423705502
+Kaylen Nelson,Bradley Braves Women's,SR,G-F,33.0,2,High-Volume Wing/Guard,661972,778791,895609,18.2,0.391,0.386,0.875,0.1,0.081,0.4,1.2,0.274,0.536,Kaylen Nelson,0.0026294760115075483
+Tamia Perryman,Bradley Braves Women's,SR,,32.0,4,Efficient Role Player,492963,579956,666950,8.7,0.403,0.36,0.698,0.115,0.069,0.2,1.2,0.184,0.517,Tamia Perryman,1.5628770726836217e-05
+Anastasiia Semenova,Boston University Terriers Women's,SR,F,28.0,3,Interior Specialist,498907,586950,674992,9.0,0.498,0.224,0.846,0.069,0.121,0.7,0.2,0.204,0.554,Anastasiia Semenova,0.00017032396262992868
+Kayla Rolph,Boston College Eagles Women's,SR,F,31.0,1,Bench Guard/Wing,471123,554262,637402,7.4,0.38,0.317,0.654,0.065,0.099,0.2,0.5,0.149,0.474,Kayla Rolph,0.0006683652226498484
+Erin Houpt,Boston College Eagles Women's,SR,G,31.0,4,Efficient Role Player,467255,549712,632169,7.2,0.4,0.404,0.914,0.049,0.05,0.0,0.5,0.13,0.623,Erin Houpt,0.000678389436599881
+Tatum Thompson,Boise State Broncos Women's,SR,G,34.0,0,Elite Two-Way Big,589862,693956,798049,14.2,0.479,0.324,0.743,0.186,0.127,0.4,1.1,0.241,0.537,Tatum Thompson,0.0015936860764474035
+Natalie Pasco,Boise State Broncos Women's,SR,G,34.0,4,Efficient Role Player,560118,658963,757807,12.5,0.457,0.437,0.796,0.093,0.065,0.1,0.8,0.179,0.593,Natalie Pasco,0.0007151337577670599
+Dani Bayes,Boise State Broncos Women's,SR,G,34.0,2,High-Volume Wing/Guard,556484,654687,752890,12.3,0.408,0.391,0.781,0.202,0.083,0.5,1.5,0.234,0.538,Dani Bayes,2.7342468703033792e-05
+Mya Hansen,Boise State Broncos Women's,SR,G,34.0,1,Bench Guard/Wing,464999,547058,629117,7.0,0.377,0.366,0.786,0.264,0.055,0.1,0.7,0.156,0.515,Mya Hansen,0.0007316543792191371
+Meghan Casey,Binghamton Bearcats Women's,SR,G,33.0,4,Efficient Role Player,481127,566032,650937,8.0,0.447,0.362,0.607,0.168,0.047,0.0,1.2,0.149,0.525,Meghan Casey,1.1488674077212962e-05
+Daimoni Dorsey,Bethune-Cookman Wildcats Women's,SR,G,33.0,1,Bench Guard/Wing,504684,593745,682807,9.3,0.367,0.282,0.879,0.097,0.057,0.3,1.4,0.191,0.472,Daimoni Dorsey,1.777149481463743e-05
+Kailyn Peters,Bethune-Cookman Wildcats Women's,SR,G,33.0,1,Bench Guard/Wing,457252,537944,618636,6.6,0.409,0.225,0.687,0.136,0.086,0.2,1.2,0.208,0.472,Kailyn Peters,2.136919655645215e-05
+Avery Strickland,Belmont Bruins Women's,SR,G,32.0,2,High-Volume Wing/Guard,569515,670018,770520,13.0,0.442,0.305,0.761,0.117,0.066,0.1,0.9,0.219,0.553,Avery Strickland,9.462515063011553e-05
+Tuti Jones,Belmont Bruins Women's,SR,G,32.0,2,High-Volume Wing/Guard,508661,598425,688189,9.6,0.376,0.321,0.758,0.224,0.078,0.2,3.2,0.158,0.504,Tuti Jones,0.0006420397570159825
+Darianna Littlepage-Buggs,Baylor Bears Women's,SR,G-F,34.0,3,Interior Specialist,527560,620658,713757,10.6,0.519,0.3,0.61,0.142,0.183,0.7,1.1,0.2,0.546,Darianna Littlepage-Buggs,0.17776069319193008
+Bella Fontleroy,Baylor Bears Women's,SR,G,34.0,0,Elite Two-Way Big,498398,586351,674304,9.0,0.338,0.259,0.8,0.07,0.114,1.3,1.5,0.21,0.447,Bella Fontleroy,0.008922551801400991
+Jana Van Gytenbeek,Baylor Bears Women's,SR,G,34.0,1,Bench Guard/Wing,471546,554760,637974,7.4,0.359,0.353,0.731,0.341,0.04,0.1,1.0,0.153,0.493,Jana Van Gytenbeek,0.0029390634430699904
+Bree Salenbien,Ball State Cardinals Women's,SR,G,32.0,0,Elite Two-Way Big,618580,727742,836903,15.8,0.463,0.343,0.833,0.248,0.133,0.9,1.6,0.268,0.581,Bree Salenbien,0.11647033372739146
+Mya Williams,Austin Peay Governors Women's,SR,G,31.0,2,High-Volume Wing/Guard,484425,569912,655399,8.2,0.357,0.355,0.75,0.131,0.045,0.0,1.2,0.194,0.506,Mya Williams,5.695087028770097e-06
+Janiah Newell,Austin Peay Governors Women's,SR,G,33.0,1,Bench Guard/Wing,457769,538552,619335,6.6,0.326,0.313,0.792,0.151,0.043,0.1,1.0,0.191,0.458,Janiah Newell,1.2602971543828344e-05
+Kaitlyn Duhon,Auburn Tigers Women's,SR,G,32.0,0,Elite Two-Way Big,516270,607377,698483,10.0,0.407,0.276,0.788,0.065,0.086,0.8,3.2,0.187,0.513,Kaitlyn Duhon,0.07830959899059138
+Mya Petticord,Auburn Tigers Women's,SR,G,30.0,1,Bench Guard/Wing,477064,561252,645440,7.7,0.339,0.291,0.886,0.069,0.046,0.0,0.5,0.2,0.462,Mya Petticord,0.002055486941857421
+Reese Ericson,Army Black Knights Women's,SR,G,34.0,2,High-Volume Wing/Guard,535796,630349,724901,11.1,0.405,0.403,0.667,0.187,0.038,0.0,0.9,0.181,0.566,Reese Ericson,4.636488223514677e-05
+Briontanay Marshall,Arkansas-Pine Bluff Golden Lions Women's,SR,C,31.0,1,Bench Guard/Wing,559586,658336,757087,3.5,0.311,0.0,0.552,0.066,0.11,0.5,0.8,0.12,0.361,Briontanay Marshall,0.0001006874520280274
+Zyion Shannon,Arkansas State Red Wolves Women's,SR,G,37.0,2,High-Volume Wing/Guard,564178,663739,763300,12.7,0.363,0.272,0.777,0.107,0.084,0.2,2.3,0.284,0.475,Zyion Shannon,0.0006626515259948981
+Wynter Rogers,Arkansas State Red Wolves Women's,SR,G,37.0,3,Interior Specialist,449750,529117,608485,6.1,0.487,0.0,0.529,0.082,0.133,0.5,1.3,0.134,0.499,Wynter Rogers,5.8956653243527504e-05
+Taleyah Jones,Arkansas Razorbacks Women's,SR,G,30.0,2,High-Volume Wing/Guard,641752,755002,868252,17.1,0.447,0.385,0.85,0.13,0.061,0.5,1.2,0.232,0.575,Taleyah Jones,0.12415002666229669
+Wyvette Mayberry,Arkansas Razorbacks Women's,SR,G,28.0,1,Bench Guard/Wing,462055,543594,625133,6.9,0.326,0.327,0.837,0.146,0.034,0.1,1.1,0.176,0.47,Wyvette Mayberry,0.0006270748548036414
+Marley Washenitz,Arizona State Sun Devils Women's,SR,G,35.0,2,High-Volume Wing/Guard,480174,564911,649647,7.9,0.368,0.312,0.759,0.148,0.069,0.2,1.9,0.163,0.483,Marley Washenitz,0.0006481047593367769
+Last-Tear Poa,Arizona State Sun Devils Women's,SR,G,32.0,1,Bench Guard/Wing,581852,684532,787212,4.7,0.353,0.319,0.841,0.285,0.087,0.2,0.8,0.16,0.514,Last-Tear Poa,9.313485487247781e-05
+Lani Cornfield,Arizona Wildcats Women's,SR,G,29.0,2,High-Volume Wing/Guard,590405,694594,798783,14.2,0.413,0.186,0.824,0.394,0.057,0.1,2.6,0.25,0.49,Lani Cornfield,0.0006776093216252756
+Nora Francois,Arizona Wildcats Women's,SR,C,29.0,3,Interior Specialist,445111,523660,602209,5.9,0.504,0.0,0.654,0.131,0.118,0.6,1.4,0.168,0.532,Nora Francois,0.0007350104709637397
+Emma Smith,Appalachian State Mountaineers Women's,SR,G,30.0,2,High-Volume Wing/Guard,528485,621747,715009,10.7,0.471,0.382,0.743,0.227,0.103,0.1,2.1,0.173,0.579,Emma Smith,0.0006187684791841996
+Elena Pericic,Appalachian State Mountaineers Women's,SR,G-F,30.0,1,Bench Guard/Wing,481075,565971,650866,8.0,0.398,0.303,0.68,0.148,0.089,0.3,0.7,0.189,0.509,Elena Pericic,3.201200215104568e-05
+Anna Rescifina,American Eagles Women's,SR,G,30.0,1,Bench Guard/Wing,448019,527082,606144,6.0,0.429,0.182,0.782,0.114,0.073,0.2,0.6,0.15,0.502,Anna Rescifina,6.771379998645536e-05
+Nakia Cheatham,Alcorn State Lady Braves Women's,SR,G-F,31.0,0,Elite Two-Way Big,573535,674747,775959,13.3,0.425,0.286,0.651,0.169,0.135,1.1,2.4,0.249,0.499,Nakia Cheatham,8.37532702037305e-05
+Kiarra Henderson,Alcorn State Lady Braves Women's,SR,G-F,31.0,0,Elite Two-Way Big,522456,614654,706852,10.4,0.465,0.222,0.682,0.363,0.11,0.6,2.0,0.206,0.514,Kiarra Henderson,2.159100150272842e-05
+Maya Claytor,Alcorn State Lady Braves Women's,SR,G,31.0,1,Bench Guard/Wing,480539,565340,650141,7.9,0.343,0.348,0.647,0.089,0.043,0.1,0.6,0.14,0.504,Maya Claytor,0.0006607108830030468
+Julia Palomo,Albany (NY) Great Danes Women's,SR,G,30.0,4,Efficient Role Player,446321,525083,603846,5.9,0.407,0.374,0.722,0.137,0.074,0.0,1.3,0.119,0.549,Julia Palomo,4.835412862504782e-06
+Gabriela Falcao,Albany (NY) Great Danes Women's,SR,C,30.0,1,Bench Guard/Wing,570987,671750,772512,4.1,0.424,0.2,0.357,0.229,0.11,0.7,0.8,0.141,0.423,Gabriela Falcao,0.00011663051791953098
+Kalia Walker,Alabama A&M Lady Bulldogs Women's,SR,G,28.0,2,High-Volume Wing/Guard,596271,701495,806719,14.5,0.414,0.333,0.87,0.153,0.047,0.0,1.5,0.219,0.588,Kalia Walker,2.2848176744533867e-05
+Moses Davenport,Alabama A&M Lady Bulldogs Women's,SR,C,27.0,3,Interior Specialist,518206,609654,701102,10.1,0.557,0.091,0.613,0.143,0.151,0.9,0.9,0.222,0.572,Moses Davenport,0.0019489373857379084
+Rakiyah Beal,Alabama A&M Lady Bulldogs Women's,SR,G,33.0,1,Bench Guard/Wing,461907,543420,624933,6.8,0.34,0.269,0.571,0.117,0.06,0.3,0.8,0.208,0.411,Rakiyah Beal,5.9387016872089554e-05
+Jessica Timmons,Alabama Crimson Tide Women's,SR,G,35.0,2,High-Volume Wing/Guard,628171,739025,849879,16.3,0.434,0.394,0.846,0.157,0.079,0.0,0.8,0.257,0.57,Jessica Timmons,0.37982005120645934
+Ta'Mia Scott,Alabama Crimson Tide Women's,SR,G,35.0,4,Efficient Role Player,507328,596856,686385,9.5,0.432,0.374,0.6,0.093,0.071,0.9,0.9,0.197,0.527,Ta'Mia Scott,0.11732013143590118
+Karly Weathers,Alabama Crimson Tide Women's,SR,G,35.0,2,High-Volume Wing/Guard,498413,586368,674323,9.0,0.418,0.358,0.71,0.196,0.1,0.4,1.8,0.151,0.542,Karly Weathers,0.20672852865727986
+Milahnie Perry,Air Force Falcons Women's,SR,G,33.0,2,High-Volume Wing/Guard,649871,764554,879237,17.5,0.391,0.284,0.738,0.242,0.069,0.2,1.4,0.319,0.465,Milahnie Perry,0.0013725108865116277
+Emily Adams,Air Force Falcons Women's,SR,F,35.0,0,Elite Two-Way Big,502867,591608,680349,9.2,0.422,0.625,0.721,0.107,0.118,0.3,1.0,0.235,0.47,Emily Adams,7.149059235724475e-05
+Breanna Davis,Abilene Christian Wildcats Women's,SR,G,35.0,1,Bench Guard/Wing,439699,517293,594887,5.5,0.392,0.36,0.698,0.176,0.037,0.1,0.9,0.134,0.507,Breanna Davis,9.890773759524726e-05

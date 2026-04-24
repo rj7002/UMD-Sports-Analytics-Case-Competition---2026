@@ -119,7 +119,7 @@ for cid in sorted(df_cluster["archetype_id"].unique()):
 # ---------------------------------------------------------------------------
 
 with open("data/cluster_model.pkl", "wb") as f:
-    pickle.dump({"scaler": scaler, "kmeans": km, "features": FEATURES, "k": K})
+    pickle.dump({"scaler": scaler, "kmeans": km, "features": FEATURES, "k": K}, f)
 
 pd.DataFrame(profiles).to_csv("data/cluster_profiles.csv", index=False)
 

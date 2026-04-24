@@ -41,7 +41,7 @@ features = model["features"]
 # Load and normalize NCAA data
 # ---------------------------------------------------------------------------
 
-ncaa = pd.read_csv("data/Copy of WBB Data - ncaa_2425.csv")
+ncaa = pd.read_csv("data/Copy of WBB Data - ncaa2526.csv")
 print(f"Raw NCAA players: {len(ncaa)}")
 
 # Convert all relevant columns to numeric

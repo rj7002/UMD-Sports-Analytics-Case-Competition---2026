@@ -289,9 +289,9 @@ save(fig, "06_cluster_selection.png")
 # ─────────────────────────────────────────────────────────────────────────────
 print("07 — Player lookup showcase...")
 showcase_names = [
-    "Paige Bueckers","Ta'Niya Latson","JuJu Watkins","Audi Crooks",
-    "Hannah Hidalgo","Sonia Citron","Kiki Iriafen","Aneesah Morrow",
-    "Saniya Rivers","Sarah Ashlee Barker"
+    "Lauren Betts","Tonie Morgan","Azzi Fudd","Ta'Niya Latson",
+    "Rori Harmon","Cotie McMahon","Olivia Miles","Hannah Stuelke",
+    "Raven Johnson","Grace VanSlooten"
 ]
 rows = []
 for name in showcase_names:
